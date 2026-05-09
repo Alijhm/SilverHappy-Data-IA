@@ -1,0 +1,651 @@
+age,city,is_paris,months_since_inscription,language,dark_mode,font_accessibility,subscription_type,is_renewed,nb_interventions_total,nb_services_domicile,nb_services_medical,nb_services_online,nb_services_sante,nb_services_loisirs,nb_services_tourisme,nb_services_emploi,nb_services_cours,nb_orders_shop,avg_grade_given,total_spent,nb_quotes_requested,nb_quotes_accepted,next_service_type
+75,Paris 13e,1,59,fr,0,1,annual_renewal,1,30,15,8,2,2,2,2,2,2,5,3.1,1728.43,10,1,Services à domicile
+79,Rouen,0,47,fr,1,0,annual_renewal,1,7,3,2,0,0,0,0,0,7,2,3.3,971.01,1,0,Cours & Formation
+86,Paris 11e,1,20,en,0,2,annual_standard,0,7,2,2,0,1,0,0,0,2,0,4.2,785.97,1,1,Services à domicile
+71,Bordeaux,0,55,fr,0,0,annual_renewal,1,17,4,4,3,11,1,1,1,1,9,3.4,2663.6,3,1,Santé & Bien-être
+82,Paris 18e,1,59,fr,1,1,annual_renewal,1,13,5,4,1,2,0,1,7,1,1,3.1,1676.87,3,2,Emploi Seniors
+69,Créteil,1,30,fr,0,2,annual_renewal,1,7,1,1,1,5,0,0,0,0,4,4.5,1091.62,2,2,Santé & Bien-être
+79,Paris 11e,1,48,en,1,0,annual_renewal,1,23,8,8,2,1,1,1,3,1,0,3.8,2067.1,3,1,Services à domicile
+65,Lyon,0,28,en,1,0,annual_renewal,1,7,1,1,1,4,1,1,0,0,5,4.4,1649.68,2,0,Santé & Bien-être
+69,Creil,0,25,fr,0,1,annual_standard,0,10,2,2,2,0,6,1,1,1,0,3.0,634.86,3,1,Loisirs & Sorties
+63,Paris 13e,1,60,fr,0,0,annual_standard,0,29,4,4,8,1,4,5,1,1,6,4.0,3435.12,4,1,Services à domicile
+73,Marseille,0,18,fr,0,2,annual_renewal,1,6,1,1,1,4,0,0,2,0,2,3.2,658.96,2,0,Santé & Bien-être
+75,Créteil,1,51,fr,0,0,annual_renewal,1,26,10,9,2,17,2,0,2,2,1,4.0,2254.39,5,5,Santé & Bien-être
+67,Paris 18e,1,40,fr,0,0,annual_renewal,1,10,2,2,1,6,0,1,1,1,3,4.3,1312.54,2,0,Santé & Bien-être
+63,Paris 17e,1,55,fr,0,0,annual_renewal,1,20,3,2,8,11,3,2,1,1,3,4.1,1676.77,4,1,Santé & Bien-être
+78,Nice,0,24,fr,0,0,annual_renewal,1,12,4,3,1,1,1,0,1,0,2,3.5,1525.98,4,2,Services à domicile
+64,Paris 11e,1,17,fr,0,1,annual_renewal,1,2,0,0,0,0,1,0,1,0,1,4.7,312.48,0,0,Loisirs & Sorties
+61,Paris 18e,1,2,fr,1,0,monthly_standard,0,1,0,0,0,1,0,0,0,0,0,4.3,103.53,0,0,Santé & Bien-être
+72,Rouen,0,27,fr,0,0,annual_renewal,1,4,1,1,0,0,1,3,0,0,1,4.2,538.56,0,0,Tourisme
+65,Paris 18e,1,23,fr,0,1,monthly_renewal,1,9,2,2,2,0,6,1,2,0,2,4.3,735.65,1,1,Loisirs & Sorties
+67,Paris 13e,1,26,en,0,0,annual_renewal,1,13,2,3,2,1,1,1,0,1,0,4.7,1261.96,2,2,Shopping
+66,Paris 11e,1,58,fr,1,1,monthly_renewal,1,19,4,5,3,1,12,1,1,1,3,3.9,1199.1,4,2,Loisirs & Sorties
+86,Paris 13e,1,43,fr,0,0,monthly_renewal,1,22,11,9,1,14,1,1,1,1,2,3.7,2215.8,6,5,Santé & Bien-être
+71,Marseille,0,46,fr,1,2,annual_renewal,1,17,5,4,3,1,1,1,11,1,1,3.0,2010.82,2,1,Emploi Seniors
+77,Paris 17e,1,44,en,0,2,monthly_standard,0,24,12,7,2,1,1,16,1,3,4,3.9,1661.19,4,1,Tourisme
+74,Bordeaux,0,38,fr,1,0,monthly_standard,0,7,1,1,1,0,0,5,0,0,0,3.7,497.88,1,0,Tourisme
+69,Rouen,0,48,fr,0,0,annual_renewal,1,24,6,6,4,1,1,1,1,3,3,4.2,1599.32,5,0,Shopping
+77,Paris 17e,1,4,fr,0,0,monthly_standard,0,1,0,0,0,1,0,0,0,0,0,3.7,92.75,0,0,Santé & Bien-être
+74,Fontainebleau,0,24,fr,0,0,monthly_standard,0,4,0,0,0,0,0,0,0,0,5,4.2,914.7,1,0,Services à domicile
+80,Paris 17e,1,17,fr,0,0,annual_standard,0,4,2,1,0,1,1,0,0,0,1,3.4,265.47,0,0,Services à domicile
+77,Créteil,1,38,fr,0,0,annual_renewal,1,18,7,5,1,1,12,1,1,1,3,4.8,2524.59,6,3,Loisirs & Sorties
+68,Creil,0,22,fr,1,0,annual_standard,0,8,2,2,1,0,5,3,0,0,1,4.2,1206.3,2,1,Loisirs & Sorties
+79,Fontainebleau,0,19,en,0,0,annual_standard,0,6,2,2,0,0,0,0,0,0,0,4.0,602.38,2,0,Services à domicile
+65,Creil,0,14,fr,0,0,annual_renewal,1,4,0,0,0,0,1,0,0,3,0,3.7,325.2,0,0,Cours & Formation
+74,Paris 11e,1,58,es,1,0,monthly_standard,0,28,5,6,6,2,18,0,2,2,7,4.7,4437.54,5,0,Loisirs & Sorties
+83,Paris 11e,1,44,fr,0,1,annual_renewal,1,25,12,9,2,4,1,1,1,1,1,5.0,2095.0,8,0,Services à domicile
+70,Fontainebleau,0,4,fr,0,0,annual_standard,0,0,0,0,0,0,0,0,0,0,1,3.8,182.26,1,1,Loisirs & Sorties
+92,Paris 17e,1,41,fr,0,2,annual_renewal,1,22,8,6,1,3,1,1,1,12,1,4.7,1991.35,4,2,Cours & Formation
+81,Paris 17e,1,37,en,0,1,monthly_renewal,1,8,3,2,0,1,0,0,2,0,0,4.9,406.05,1,0,Shopping
+71,Marseille,0,33,fr,0,1,monthly_renewal,1,20,4,5,3,2,1,13,1,1,3,4.4,2749.15,4,3,Tourisme
+66,Paris 13e,1,46,fr,0,1,annual_renewal,1,18,5,3,4,1,1,12,1,1,1,4.3,2610.09,3,1,Tourisme
+95,Montreuil,1,45,en,0,1,monthly_renewal,1,20,9,6,1,12,1,1,1,1,8,4.9,2210.76,4,2,Santé & Bien-être
+87,Paris 18e,1,6,es,0,0,monthly_standard,0,2,1,0,0,1,0,0,0,0,0,4.4,109.73,0,0,Santé & Bien-être
+66,Bordeaux,0,47,fr,0,1,annual_renewal,1,10,2,2,1,1,5,1,0,1,3,3.8,1234.71,3,2,Loisirs & Sorties
+88,Montreuil,1,30,fr,0,0,monthly_standard,0,22,8,6,1,3,1,1,1,1,3,3.2,1893.71,4,4,Services à domicile
+70,Bordeaux,0,57,fr,0,0,monthly_standard,0,13,2,2,2,1,0,8,1,1,7,3.0,2335.16,2,1,Tourisme
+66,Bordeaux,0,23,fr,1,0,annual_standard,0,5,1,1,0,0,0,0,2,0,0,3.1,660.81,0,0,Services à domicile
+93,Paris 11e,1,35,fr,1,2,annual_standard,0,10,3,3,1,1,0,0,0,3,1,3.8,1061.56,1,1,Services à domicile
+89,Montreuil,1,37,it,0,1,monthly_standard,0,6,2,2,0,4,0,0,0,0,0,3.4,366.79,1,1,Santé & Bien-être
+80,Paris 18e,1,29,fr,0,0,annual_renewal,1,9,3,2,1,1,0,0,2,5,2,3.1,745.96,2,0,Cours & Formation
+92,Paris 13e,1,9,de,1,0,monthly_standard,0,2,0,0,0,0,0,0,0,0,0,4.1,141.9,1,1,Services à domicile
+70,Rouen,0,17,fr,0,2,monthly_renewal,1,3,0,0,0,0,2,1,0,0,2,3.5,553.55,1,0,Loisirs & Sorties
+75,Rouen,0,28,fr,1,0,monthly_renewal,1,7,3,2,0,0,7,0,0,0,1,4.2,701.11,2,2,Loisirs & Sorties
+85,Paris 13e,1,22,fr,0,0,annual_renewal,1,9,4,3,0,1,0,0,0,0,3,3.9,986.06,3,3,Services à domicile
+78,Lyon,0,34,es,0,0,monthly_standard,0,15,6,5,1,1,1,1,9,1,3,3.9,692.82,4,4,Emploi Seniors
+90,Créteil,1,3,fr,0,0,monthly_standard,0,1,0,0,0,0,0,0,0,0,0,5.0,112.16,1,1,Services à domicile
+77,Creil,0,45,fr,0,1,annual_renewal,1,6,3,1,0,0,0,4,0,2,5,3.8,1561.68,1,1,Tourisme
+66,Bordeaux,0,50,fr,1,0,monthly_renewal,1,9,2,2,2,1,0,1,0,6,1,4.0,833.75,3,2,Cours & Formation
+85,Créteil,1,8,fr,0,2,annual_standard,0,3,1,0,0,0,0,1,0,0,0,4.8,242.47,0,0,Services à domicile
+66,Nice,0,22,fr,1,0,annual_standard,0,2,0,0,0,0,0,0,0,0,2,4.8,502.63,1,0,Services à domicile
+64,Marseille,0,51,fr,0,0,annual_renewal,1,15,2,2,6,7,2,2,1,1,1,4.3,2269.7,5,3,Santé & Bien-être
+70,Paris 18e,1,28,en,0,0,annual_renewal,1,11,2,3,2,0,7,1,1,0,2,4.4,1601.62,1,0,Loisirs & Sorties
+88,Montreuil,1,29,fr,0,0,annual_renewal,1,17,6,6,1,11,1,1,0,1,0,4.4,1304.76,2,2,Santé & Bien-être
+75,Paris 18e,1,41,de,0,0,annual_standard,0,20,8,6,2,1,13,1,2,1,3,4.3,1793.43,6,4,Loisirs & Sorties
+78,Paris 18e,1,5,fr,0,0,monthly_renewal,1,4,1,1,0,0,0,3,0,1,0,3.8,122.92,1,1,Tourisme
+74,Montreuil,1,10,en,0,1,monthly_renewal,1,5,1,1,0,0,0,3,2,0,3,4.5,683.17,1,1,Tourisme
+70,Montreuil,1,57,en,0,0,monthly_standard,0,17,3,4,3,11,1,1,1,1,4,3.8,2016.34,3,1,Santé & Bien-être
+83,Paris 17e,1,4,de,1,2,monthly_standard,0,2,0,0,0,1,0,0,0,0,0,3.9,153.89,1,1,Santé & Bien-être
+74,Bordeaux,0,31,fr,0,0,annual_standard,0,3,0,0,0,1,0,2,0,0,2,4.5,619.22,1,0,Tourisme
+63,Rouen,0,15,es,0,2,annual_renewal,1,3,0,0,1,0,1,0,0,0,0,4.8,250.59,1,1,Services à domicile
+67,Paris 18e,1,53,es,0,0,monthly_renewal,1,14,3,3,3,1,1,0,1,1,2,3.8,1778.2,4,4,Services à domicile
+75,Creil,0,27,fr,0,0,monthly_standard,0,6,3,2,0,4,0,2,0,0,3,4.4,772.12,1,1,Santé & Bien-être
+61,Fontainebleau,0,8,fr,0,1,monthly_standard,0,2,0,0,0,1,1,0,0,0,1,5.0,347.74,1,1,Santé & Bien-être
+93,Paris 13e,1,48,fr,0,2,monthly_renewal,1,16,5,6,1,10,1,1,0,1,1,3.3,963.86,2,1,Santé & Bien-être
+65,Paris 18e,1,17,fr,0,0,annual_standard,0,4,0,0,0,2,1,0,0,0,0,3.1,428.27,0,0,Santé & Bien-être
+94,Créteil,1,42,fr,0,2,annual_renewal,1,18,6,6,1,10,1,1,1,1,1,4.4,1595.73,6,5,Santé & Bien-être
+62,Montreuil,1,21,fr,0,1,annual_standard,0,7,0,1,2,0,6,1,0,0,1,4.0,682.79,1,0,Loisirs & Sorties
+82,Paris 18e,1,29,fr,0,0,annual_renewal,1,8,3,2,0,1,0,0,0,6,0,4.4,622.42,1,0,Cours & Formation
+65,Creil,0,47,fr,1,0,annual_standard,0,10,2,2,2,6,2,1,1,0,3,4.9,1227.04,2,2,Santé & Bien-être
+86,Montreuil,1,25,fr,0,0,annual_standard,0,11,4,4,1,7,0,1,1,1,0,4.5,1025.23,2,0,Santé & Bien-être
+83,Paris 17e,1,47,en,0,0,monthly_renewal,1,9,3,3,0,1,2,0,0,0,1,3.8,514.88,3,2,Services à domicile
+87,Paris 17e,1,22,fr,0,0,monthly_renewal,1,9,4,3,1,1,0,0,0,2,1,3.3,923.69,2,0,Services à domicile
+77,Rouen,0,6,fr,1,0,monthly_renewal,1,1,0,0,0,0,1,0,0,0,0,4.0,90.04,1,0,Loisirs & Sorties
+75,Paris 13e,1,56,en,1,0,monthly_renewal,1,26,9,9,2,1,0,2,2,2,1,3.3,2253.31,6,2,Shopping
+60,Fontainebleau,0,20,de,1,0,annual_renewal,1,9,1,1,3,0,6,1,0,0,2,3.2,627.2,1,0,Loisirs & Sorties
+73,Bordeaux,0,52,fr,0,0,annual_renewal,1,12,2,3,2,1,1,0,1,0,0,3.4,1397.27,3,0,Services à domicile
+70,Lyon,0,26,en,0,0,monthly_standard,0,13,2,3,2,0,1,8,1,1,1,4.3,1008.81,3,2,Tourisme
+80,Lyon,0,13,fr,1,0,annual_standard,0,0,0,0,0,0,0,0,0,0,1,4.3,150.03,1,1,Loisirs & Sorties
+76,Paris 17e,1,49,fr,1,2,annual_renewal,1,22,10,7,2,1,3,1,1,1,1,4.1,2581.28,5,0,Services à domicile
+67,Paris 11e,1,34,fr,1,1,annual_renewal,1,2,0,0,0,0,0,1,1,0,1,3.1,920.81,1,1,Tourisme
+84,Paris 17e,1,32,fr,0,1,annual_renewal,1,15,6,4,1,2,1,1,0,1,0,3.8,878.32,4,0,Services à domicile
+69,Créteil,1,20,fr,0,1,annual_renewal,1,8,1,2,1,8,0,0,0,0,2,4.1,892.24,1,1,Santé & Bien-être
+88,Paris 11e,1,54,fr,0,0,annual_standard,0,29,15,10,2,4,1,1,1,1,1,3.3,1410.99,6,1,Services à domicile
+66,Fontainebleau,0,40,fr,1,1,annual_renewal,1,5,1,1,0,0,5,0,0,0,2,3.8,902.37,0,0,Loisirs & Sorties
+76,Fontainebleau,0,45,fr,1,0,annual_renewal,1,17,8,5,2,11,1,1,1,1,3,5.0,1510.38,2,0,Santé & Bien-être
+80,Montreuil,1,33,fr,0,1,monthly_standard,0,20,10,7,1,3,1,10,1,1,6,4.7,2911.54,6,3,Tourisme
+91,Paris 18e,1,44,fr,1,1,monthly_renewal,1,21,10,8,2,3,1,1,1,1,1,3.8,1443.74,4,1,Services à domicile
+61,Lyon,0,5,fr,0,0,monthly_standard,0,4,0,0,1,0,3,0,0,0,0,4.5,323.49,0,0,Loisirs & Sorties
+63,Creil,0,9,de,0,0,monthly_standard,0,4,0,0,1,0,1,1,0,0,2,3.5,511.09,0,0,Services à domicile
+77,Nice,0,57,fr,0,1,monthly_renewal,1,14,5,3,1,1,0,9,1,1,3,4.1,1030.36,3,1,Tourisme
+68,Bordeaux,0,10,it,0,0,annual_standard,0,5,1,1,1,0,0,0,0,2,1,3.5,222.13,0,0,Shopping
+65,Marseille,0,5,en,0,0,monthly_standard,0,1,0,0,0,1,0,0,0,0,1,4.4,161.97,1,1,Santé & Bien-être
+67,Paris 18e,1,50,fr,0,0,annual_renewal,1,12,3,3,2,1,0,1,1,0,2,4.1,1285.11,4,0,Services à domicile
+65,Créteil,1,47,fr,1,0,annual_renewal,1,12,2,2,2,1,1,1,1,7,4,3.7,1284.98,2,2,Cours & Formation
+61,Paris 13e,1,57,fr,1,0,annual_renewal,1,12,1,1,3,1,8,1,0,0,2,3.6,1505.51,2,1,Loisirs & Sorties
+76,Paris 17e,1,1,fr,0,1,annual_standard,0,0,0,0,0,0,0,0,0,0,0,3.9,0.0,1,1,Services à domicile
+69,Fontainebleau,0,13,fr,0,1,monthly_standard,0,2,0,0,0,0,0,0,0,2,0,4.2,374.04,1,1,Cours & Formation
+91,Paris 17e,1,35,fr,0,0,annual_standard,0,17,8,5,1,2,9,1,1,1,4,4.1,1263.4,4,3,Loisirs & Sorties
+77,Fontainebleau,0,1,es,0,2,monthly_renewal,1,0,0,0,0,0,0,0,0,0,0,4.3,0.0,0,0,Tourisme
+84,Créteil,1,17,en,0,0,monthly_renewal,1,7,2,2,0,1,5,0,0,0,0,4.6,448.43,2,1,Loisirs & Sorties
+92,Paris 11e,1,43,fr,0,1,monthly_standard,0,20,8,6,1,3,1,1,1,1,1,4.1,991.32,3,1,Services à domicile
+73,Bordeaux,0,26,en,0,0,annual_standard,0,6,1,1,1,2,0,0,0,4,1,3.1,433.54,1,0,Cours & Formation
+68,Creil,0,16,es,1,0,annual_standard,0,8,2,2,1,0,5,0,0,0,2,3.6,858.46,2,0,Loisirs & Sorties
+69,Rouen,0,25,fr,1,0,monthly_renewal,1,8,2,1,1,3,5,0,0,0,2,4.5,711.47,2,0,Loisirs & Sorties
+95,Créteil,1,9,it,0,1,annual_standard,0,3,1,0,0,3,0,0,0,0,0,3.1,208.69,1,1,Santé & Bien-être
+85,Paris 17e,1,3,en,1,2,annual_renewal,1,3,1,0,0,0,0,0,0,1,0,3.6,236.65,1,0,Services à domicile
+64,Rouen,0,49,fr,1,2,monthly_renewal,1,8,1,1,3,0,5,3,0,0,3,3.4,1593.56,1,0,Loisirs & Sorties
+77,Montreuil,1,20,fr,0,0,monthly_renewal,1,3,1,0,0,3,0,0,0,0,4,4.7,398.69,1,1,Santé & Bien-être
+83,Paris 18e,1,53,fr,0,0,annual_renewal,1,31,12,11,2,19,1,1,4,1,6,4.0,4017.74,9,9,Santé & Bien-être
+61,Bordeaux,0,46,it,0,0,monthly_renewal,1,13,1,2,4,1,2,7,1,1,1,3.1,1061.11,3,1,Tourisme
+94,Paris 13e,1,23,fr,0,0,monthly_standard,0,14,7,5,1,9,0,1,0,1,1,3.7,1638.37,3,3,Santé & Bien-être
+75,Créteil,1,25,fr,0,0,annual_renewal,1,11,5,4,1,1,1,1,0,7,3,4.2,1140.65,1,1,Cours & Formation
+80,Lyon,0,4,fr,0,1,annual_renewal,1,0,0,0,0,0,0,0,0,0,0,4.4,0.0,0,0,Santé & Bien-être
+63,Bordeaux,0,17,fr,0,1,annual_standard,0,5,0,0,1,0,1,0,0,3,1,4.1,726.41,0,0,Cours & Formation
+92,Paris 17e,1,37,fr,1,1,monthly_standard,0,15,7,4,1,2,1,1,0,1,1,4.9,1034.87,3,1,Services à domicile
+68,Rouen,0,42,fr,0,2,monthly_renewal,1,9,2,2,1,0,1,6,1,0,3,4.4,1448.78,3,3,Tourisme
+64,Paris 13e,1,15,fr,0,0,monthly_renewal,1,6,0,0,2,1,1,1,0,3,1,4.9,702.44,2,1,Cours & Formation
+70,Paris 18e,1,33,fr,0,0,annual_standard,0,10,2,2,2,1,1,0,1,1,3,3.0,1485.65,2,2,Shopping
+81,Paris 17e,1,1,fr,0,2,monthly_standard,0,0,0,0,0,0,0,0,0,0,0,4.2,0.0,1,1,Santé & Bien-être
+67,Paris 11e,1,48,it,0,0,monthly_renewal,1,14,4,4,3,1,0,1,1,1,4,4.8,960.09,3,2,Services à domicile
+70,Fontainebleau,0,4,es,0,0,annual_standard,0,2,0,0,0,0,0,0,0,1,0,4.5,176.69,0,0,Cours & Formation
+64,Bordeaux,0,8,fr,0,1,annual_renewal,1,2,0,0,0,0,0,0,1,0,0,3.8,224.97,0,0,Emploi Seniors
+65,Paris 18e,1,51,fr,0,0,annual_renewal,1,16,4,4,2,1,2,10,1,0,2,3.7,1568.66,4,3,Tourisme
+91,Créteil,1,18,en,0,1,monthly_standard,0,6,3,1,0,1,1,0,0,0,3,4.9,940.26,2,0,Services à domicile
+92,Montreuil,1,1,en,1,1,monthly_standard,0,2,0,0,0,1,0,0,1,0,0,4.1,155.07,1,1,Santé & Bien-être
+68,Paris 18e,1,60,fr,0,0,annual_renewal,1,11,2,2,1,1,0,1,1,1,4,4.2,1711.34,3,3,Shopping
+66,Paris 11e,1,42,fr,0,0,annual_renewal,1,9,1,2,1,1,1,1,3,1,0,3.4,544.74,2,2,Emploi Seniors
+66,Fontainebleau,0,4,fr,0,1,monthly_standard,0,4,1,1,0,0,1,3,0,0,1,3.8,610.48,0,0,Tourisme
+71,Lyon,0,53,es,0,2,annual_renewal,1,27,5,8,5,2,17,0,2,2,4,3.3,4138.84,9,1,Loisirs & Sorties
+92,Paris 18e,1,27,es,0,0,monthly_renewal,1,12,4,4,1,2,1,0,1,6,1,3.2,1514.44,2,0,Cours & Formation
+61,Paris 11e,1,24,fr,0,2,annual_standard,0,6,0,0,2,3,1,2,0,0,1,4.1,1077.05,2,1,Santé & Bien-être
+69,Rouen,0,48,en,1,0,monthly_renewal,1,11,3,3,2,1,7,1,0,1,2,3.8,1506.15,2,2,Loisirs & Sorties
+88,Paris 11e,1,44,it,1,1,monthly_standard,0,17,8,5,1,2,9,1,1,1,0,3.3,1246.69,3,3,Loisirs & Sorties
+62,Paris 11e,1,6,fr,1,0,annual_standard,0,1,0,0,0,1,0,0,0,0,2,4.3,220.93,0,0,Santé & Bien-être
+68,Rouen,0,55,fr,0,2,monthly_renewal,1,5,1,1,1,2,0,0,0,0,2,4.1,1208.76,0,0,Services à domicile
+63,Paris 13e,1,44,en,1,2,monthly_standard,0,20,3,3,6,1,13,2,1,1,4,3.5,1671.94,4,1,Loisirs & Sorties
+83,Paris 18e,1,14,fr,1,1,annual_standard,0,2,0,0,0,1,0,0,0,0,0,3.6,112.79,1,0,Services à domicile
+69,Nice,0,45,fr,0,0,annual_standard,0,19,4,4,3,1,12,1,2,1,2,4.9,1598.02,5,0,Loisirs & Sorties
+90,Créteil,1,27,en,0,1,monthly_standard,0,7,3,2,0,1,0,0,0,4,1,4.3,411.13,2,1,Cours & Formation
+75,Marseille,0,60,fr,0,0,annual_renewal,1,17,7,5,1,1,1,1,1,11,5,4.3,2017.02,2,2,Cours & Formation
+88,Montreuil,1,7,en,0,0,monthly_renewal,1,1,0,0,0,1,0,0,0,0,0,4.9,46.13,0,0,Santé & Bien-être
+69,Créteil,1,28,fr,0,0,annual_renewal,1,4,0,1,0,0,3,0,1,0,0,3.5,541.91,0,0,Loisirs & Sorties
+66,Fontainebleau,0,25,fr,0,0,annual_renewal,1,4,0,0,0,0,1,0,0,0,1,4.1,572.78,1,1,Shopping
+69,Paris 11e,1,53,de,0,0,annual_renewal,1,15,3,3,2,1,1,1,1,0,3,4.7,770.24,3,3,Services à domicile
+69,Paris 18e,1,6,fr,1,1,annual_standard,0,6,1,1,1,2,0,4,0,0,0,4.6,578.5,1,1,Tourisme
+61,Paris 13e,1,9,fr,1,2,annual_standard,0,1,0,0,0,1,0,0,0,0,0,3.5,237.83,0,0,Santé & Bien-être
+71,Rouen,0,48,fr,0,1,monthly_standard,0,27,7,7,4,2,2,2,2,17,10,3.3,4054.49,5,4,Cours & Formation
+77,Paris 17e,1,54,fr,1,0,monthly_standard,0,11,4,3,1,7,1,1,0,0,2,4.0,711.45,3,3,Santé & Bien-être
+65,Nice,0,7,en,0,0,annual_renewal,1,4,1,0,0,0,1,2,0,0,0,4.4,201.78,0,0,Tourisme
+62,Nice,0,23,fr,1,0,monthly_standard,0,6,1,0,2,0,1,2,0,3,1,4.2,525.22,1,1,Cours & Formation
+69,Créteil,1,5,fr,0,1,annual_standard,0,0,0,0,0,0,0,0,0,0,0,4.1,58.32,1,0,Loisirs & Sorties
+85,Créteil,1,2,fr,1,1,annual_standard,0,2,0,0,0,0,0,0,0,1,0,3.7,227.77,1,1,Cours & Formation
+68,Marseille,0,7,fr,0,0,annual_standard,0,2,0,0,0,1,1,0,0,0,0,4.6,163.62,0,0,Loisirs & Sorties
+70,Nice,0,16,en,0,2,monthly_standard,0,4,0,0,0,0,0,0,0,1,1,4.8,587.05,0,0,Shopping
+79,Nice,0,5,fr,0,1,annual_standard,0,0,0,0,0,0,0,0,0,0,0,4.1,48.67,1,0,Services à domicile
+65,Creil,0,9,fr,0,0,annual_renewal,1,2,0,0,0,1,1,0,0,0,0,3.9,295.17,1,1,Loisirs & Sorties
+72,Nice,0,44,de,0,1,annual_renewal,1,12,3,2,2,1,8,0,1,0,6,4.6,1430.07,4,0,Loisirs & Sorties
+72,Nice,0,54,en,0,1,monthly_renewal,1,7,1,1,1,0,5,0,0,0,2,5.0,649.04,1,0,Loisirs & Sorties
+68,Lyon,0,9,fr,0,0,annual_standard,0,6,1,1,1,0,0,0,0,6,1,4.2,436.72,1,1,Cours & Formation
+64,Bordeaux,0,11,es,0,0,monthly_standard,0,2,0,0,0,0,0,0,0,0,1,4.1,376.15,1,0,Services à domicile
+86,Paris 18e,1,42,fr,1,1,monthly_renewal,1,15,6,5,1,9,1,1,0,1,2,3.3,785.57,5,0,Santé & Bien-être
+66,Paris 17e,1,47,fr,0,0,monthly_renewal,1,2,0,0,0,0,0,1,0,0,2,3.3,566.64,1,1,Tourisme
+86,Paris 18e,1,49,fr,1,2,annual_standard,0,40,18,13,4,25,2,2,2,2,5,3.8,4465.99,7,6,Santé & Bien-être
+69,Creil,0,8,fr,0,1,monthly_renewal,1,2,0,0,0,2,0,0,0,0,0,4.0,163.09,1,1,Santé & Bien-être
+73,Paris 11e,1,44,en,0,0,annual_renewal,1,16,3,4,3,1,1,10,1,1,3,3.5,2037.69,3,2,Tourisme
+78,Paris 13e,1,36,fr,0,1,annual_standard,0,20,10,7,1,13,1,1,2,1,4,4.2,2724.26,5,1,Santé & Bien-être
+83,Paris 13e,1,28,fr,0,0,monthly_standard,0,15,6,6,1,1,1,1,1,1,1,4.4,700.69,5,4,Services à domicile
+78,Marseille,0,53,es,0,1,annual_renewal,1,17,8,6,1,1,1,1,1,11,1,4.0,1654.05,3,3,Cours & Formation
+61,Marseille,0,50,fr,1,0,monthly_standard,0,18,3,2,5,1,3,1,10,1,3,4.5,2475.89,5,4,Emploi Seniors
+77,Paris 18e,1,44,it,1,0,monthly_standard,0,15,6,4,1,1,10,0,1,1,7,3.3,2886.71,2,2,Loisirs & Sorties
+70,Fontainebleau,0,34,fr,1,0,annual_renewal,1,13,3,3,2,1,1,1,0,8,1,5.0,2101.97,3,1,Cours & Formation
+65,Créteil,1,42,fr,0,0,monthly_renewal,1,11,2,2,2,1,2,0,1,0,1,3.9,688.95,2,2,Shopping
+63,Fontainebleau,0,30,fr,0,1,monthly_standard,0,11,1,1,3,0,7,1,1,1,2,3.1,1011.25,2,2,Loisirs & Sorties
+84,Paris 13e,1,26,fr,0,0,monthly_renewal,1,15,6,5,1,8,1,1,1,1,0,3.7,857.42,4,4,Santé & Bien-être
+66,Paris 17e,1,18,en,0,0,monthly_standard,0,6,1,1,1,0,0,4,0,0,1,3.6,452.04,2,1,Tourisme
+62,Marseille,0,5,es,0,1,monthly_standard,0,4,0,0,1,0,3,0,1,0,0,4.6,464.48,0,0,Loisirs & Sorties
+70,Creil,0,17,es,0,0,annual_renewal,1,5,1,1,1,0,2,3,0,0,1,3.8,527.82,1,1,Tourisme
+61,Paris 18e,1,20,fr,0,1,monthly_renewal,1,5,0,0,1,0,2,0,0,0,0,3.8,545.6,1,0,Services à domicile
+64,Paris 18e,1,56,it,0,0,monthly_renewal,1,14,2,2,5,0,2,8,1,1,2,4.3,1538.7,2,0,Tourisme
+61,Paris 13e,1,41,fr,0,0,monthly_standard,0,14,2,2,4,1,2,1,0,8,2,4.4,1707.55,4,1,Cours & Formation
+83,Paris 13e,1,9,en,1,1,annual_standard,0,4,1,1,0,1,0,0,0,2,0,3.9,329.11,0,0,Cours & Formation
+90,Paris 17e,1,42,fr,1,0,monthly_renewal,1,23,8,8,2,14,1,1,1,1,2,4.3,1167.56,6,1,Santé & Bien-être
+67,Paris 17e,1,36,fr,1,0,monthly_renewal,1,12,3,3,2,1,0,0,8,1,0,3.4,861.3,3,2,Emploi Seniors
+78,Paris 11e,1,43,fr,1,2,annual_renewal,1,16,8,4,1,1,1,1,1,1,1,3.6,1857.76,4,0,Services à domicile
+84,Paris 17e,1,35,en,0,0,monthly_renewal,1,11,5,4,1,2,0,1,0,0,1,4.5,994.35,2,0,Services à domicile
+68,Marseille,0,20,es,1,0,annual_renewal,1,4,1,1,0,0,4,0,0,0,0,3.2,447.42,0,0,Loisirs & Sorties
+67,Paris 13e,1,23,fr,0,1,annual_renewal,1,9,2,2,1,1,0,0,1,6,2,4.5,1006.53,1,1,Cours & Formation
+69,Lyon,0,27,it,0,0,annual_renewal,1,5,1,1,1,0,2,3,0,0,2,4.5,498.69,0,0,Tourisme
+69,Paris 13e,1,43,fr,0,0,annual_standard,0,13,3,3,2,1,0,1,1,1,1,3.6,992.09,2,0,Services à domicile
+69,Créteil,1,26,fr,0,2,annual_standard,0,5,1,1,0,0,3,0,2,0,4,4.6,1281.56,0,0,Loisirs & Sorties
+61,Paris 17e,1,32,fr,0,1,annual_standard,0,11,1,1,3,0,2,1,1,6,0,4.4,1378.45,2,2,Cours & Formation
+61,Lyon,0,47,fr,0,2,monthly_renewal,1,13,2,1,3,1,8,1,1,1,2,3.9,1037.92,3,3,Loisirs & Sorties
+87,Paris 13e,1,6,fr,1,0,monthly_standard,0,4,1,1,0,2,1,0,0,0,0,4.2,353.02,1,0,Santé & Bien-être
+77,Paris 13e,1,50,fr,0,1,annual_renewal,1,33,13,13,3,2,2,2,2,2,1,3.0,2246.91,5,5,Services à domicile
+69,Nice,0,29,fr,0,0,annual_standard,0,11,2,3,2,1,5,1,1,1,0,4.6,1039.94,1,0,Loisirs & Sorties
+66,Paris 18e,1,40,fr,1,2,annual_renewal,1,13,2,3,2,1,1,1,1,8,4,4.7,2057.07,4,1,Cours & Formation
+69,Marseille,0,15,fr,1,0,annual_renewal,1,8,2,2,1,0,5,0,0,0,0,4.1,425.05,2,0,Loisirs & Sorties
+80,Paris 11e,1,47,fr,0,0,monthly_renewal,1,27,12,8,2,4,1,1,1,1,2,4.6,1955.07,8,7,Shopping
+62,Paris 17e,1,59,en,1,2,monthly_renewal,1,10,1,1,4,6,2,1,1,0,1,3.8,892.15,3,2,Santé & Bien-être
+75,Rouen,0,32,fr,0,2,annual_standard,0,13,6,5,1,1,8,1,0,1,5,3.4,1446.56,3,2,Loisirs & Sorties
+60,Rouen,0,56,fr,1,2,annual_renewal,1,21,2,3,8,1,3,2,12,1,4,4.9,2169.14,3,3,Emploi Seniors
+61,Créteil,1,23,fr,1,0,monthly_standard,0,4,0,0,1,0,1,0,0,3,2,3.9,353.03,0,0,Cours & Formation
+62,Rouen,0,19,en,1,2,annual_standard,0,3,0,0,1,0,1,0,0,0,0,3.2,353.15,1,1,Services à domicile
+61,Paris 11e,1,46,fr,0,2,monthly_standard,0,15,1,1,4,1,9,2,0,1,3,4.5,1560.37,2,2,Loisirs & Sorties
+72,Nice,0,60,de,0,2,annual_renewal,1,23,4,4,4,1,17,1,1,1,8,3.4,3557.83,3,1,Loisirs & Sorties
+71,Nice,0,14,fr,0,0,monthly_standard,0,1,0,0,0,0,0,0,0,1,1,4.6,264.93,0,0,Cours & Formation
+64,Fontainebleau,0,35,es,0,0,monthly_renewal,1,12,1,1,3,1,6,1,1,1,2,4.1,1013.65,4,2,Loisirs & Sorties
+67,Paris 18e,1,3,es,0,0,annual_standard,0,0,0,0,0,0,0,0,0,0,0,4.3,0.0,1,0,Services à domicile
+66,Nice,0,57,it,0,2,annual_renewal,1,23,5,5,4,1,1,15,1,1,3,3.8,2877.1,7,1,Tourisme
+67,Paris 17e,1,9,it,1,0,monthly_standard,0,3,0,0,0,0,3,0,0,0,0,5.0,389.44,1,0,Loisirs & Sorties
+77,Nice,0,12,fr,0,2,monthly_standard,0,3,1,1,0,0,0,2,1,0,3,4.4,352.53,0,0,Tourisme
+69,Paris 13e,1,1,de,0,0,monthly_renewal,1,0,0,0,0,0,0,0,0,0,0,3.9,0.0,1,1,Shopping
+64,Rouen,0,3,fr,0,0,annual_standard,0,1,0,0,0,0,1,0,0,0,1,4.5,135.51,1,0,Loisirs & Sorties
+71,Bordeaux,0,24,fr,0,0,monthly_standard,0,3,0,0,0,3,0,0,0,0,1,3.9,511.81,1,1,Santé & Bien-être
+63,Nice,0,30,en,1,2,annual_renewal,1,12,2,1,3,0,8,1,1,0,1,3.6,1099.71,3,3,Loisirs & Sorties
+63,Paris 18e,1,27,fr,0,0,monthly_renewal,1,5,0,0,1,0,1,0,4,0,4,3.8,957.43,0,0,Emploi Seniors
+80,Paris 18e,1,16,fr,0,0,annual_standard,0,4,2,1,0,2,0,0,0,0,1,3.6,370.07,0,0,Santé & Bien-être
+75,Paris 18e,1,45,fr,0,0,monthly_renewal,1,17,8,6,1,1,1,11,1,1,4,4.8,1584.88,3,2,Tourisme
+84,Créteil,1,22,fr,0,0,annual_renewal,1,11,4,3,1,4,1,1,1,1,1,4.4,1205.25,1,1,Santé & Bien-être
+94,Paris 17e,1,29,fr,0,0,monthly_standard,0,15,6,4,1,2,0,1,1,1,4,4.3,1985.52,3,1,Services à domicile
+77,Bordeaux,0,44,fr,0,1,annual_renewal,1,15,7,5,1,1,1,10,1,1,5,3.5,1240.15,2,2,Tourisme
+78,Marseille,0,43,en,0,1,annual_renewal,1,16,7,6,1,1,1,1,1,1,0,3.6,833.69,5,5,Shopping
+62,Marseille,0,41,en,1,0,monthly_renewal,1,13,2,1,3,1,8,1,1,1,3,3.7,2051.47,3,3,Loisirs & Sorties
+93,Paris 11e,1,52,fr,1,0,monthly_standard,0,26,13,7,3,4,1,1,1,1,1,4.0,2944.53,5,2,Services à domicile
+67,Paris 18e,1,19,fr,1,2,monthly_renewal,1,15,4,3,3,1,0,1,1,1,2,3.4,1088.67,4,4,Shopping
+75,Paris 13e,1,56,en,0,1,annual_renewal,1,26,11,10,2,16,0,2,2,2,0,4.2,2340.77,5,1,Santé & Bien-être
+68,Créteil,1,28,it,1,1,monthly_standard,0,7,1,1,1,0,7,0,0,0,0,4.5,532.87,2,2,Loisirs & Sorties
+93,Paris 11e,1,48,es,0,0,annual_renewal,1,18,8,6,1,2,1,1,1,1,1,4.8,2479.52,6,0,Services à domicile
+67,Bordeaux,0,6,fr,0,1,monthly_standard,0,1,0,0,0,0,0,0,0,0,0,3.3,99.01,0,0,Services à domicile
+69,Rouen,0,19,fr,1,1,monthly_standard,0,10,2,2,2,6,1,0,1,0,2,3.8,1092.59,1,1,Santé & Bien-être
+70,Montreuil,1,14,fr,0,0,monthly_standard,0,3,0,0,0,0,3,0,0,0,1,4.8,493.13,1,0,Loisirs & Sorties
+94,Paris 17e,1,60,es,1,0,annual_renewal,1,24,10,7,2,4,1,1,1,1,2,4.8,2365.94,8,7,Shopping
+65,Marseille,0,15,fr,1,1,annual_renewal,1,2,0,0,0,0,1,0,0,0,2,4.3,299.98,1,1,Shopping
+62,Montreuil,1,3,fr,0,0,monthly_renewal,1,2,0,0,0,0,1,0,0,0,0,3.0,84.91,0,0,Shopping
+74,Marseille,0,16,fr,1,0,monthly_standard,0,10,2,2,1,0,6,1,1,1,1,3.8,1421.93,1,0,Loisirs & Sorties
+60,Paris 17e,1,24,fr,1,0,annual_standard,0,14,2,2,5,1,2,1,1,0,3,4.6,1994.02,4,2,Shopping
+90,Paris 18e,1,47,fr,0,1,monthly_renewal,1,23,8,9,2,14,1,1,1,2,3,4.5,2658.88,5,2,Santé & Bien-être
+94,Créteil,1,59,en,0,1,annual_renewal,1,30,14,9,3,4,1,3,1,16,2,4.8,2900.6,7,3,Cours & Formation
+78,Bordeaux,0,20,fr,0,2,annual_renewal,1,11,4,3,1,1,7,0,1,0,1,3.8,715.18,1,0,Loisirs & Sorties
+67,Paris 13e,1,50,it,0,0,annual_standard,0,11,2,2,2,1,0,0,1,1,1,4.7,1750.54,2,2,Shopping
+76,Creil,0,53,es,1,1,annual_renewal,1,9,3,3,0,6,1,0,1,1,7,4.4,877.24,3,2,Santé & Bien-être
+65,Bordeaux,0,59,fr,0,1,annual_renewal,1,16,3,3,2,1,2,1,1,1,4,4.4,2359.32,4,4,Shopping
+66,Bordeaux,0,26,fr,0,1,annual_standard,0,6,1,1,1,0,0,0,2,0,1,3.2,927.93,2,2,Services à domicile
+65,Paris 11e,1,22,fr,0,0,annual_standard,0,9,2,2,2,0,3,1,0,0,3,4.4,766.7,2,2,Shopping
+87,Montreuil,1,33,de,1,0,annual_renewal,1,16,8,6,1,10,1,1,0,1,1,3.3,1229.65,5,2,Santé & Bien-être
+79,Marseille,0,38,en,0,0,annual_renewal,1,7,2,2,0,0,0,0,2,5,3,4.8,887.57,2,1,Cours & Formation
+95,Paris 11e,1,41,en,0,0,annual_renewal,1,18,9,6,1,3,1,1,1,9,0,4.8,1495.12,5,1,Cours & Formation
+75,Paris 11e,1,38,fr,0,1,annual_standard,0,19,7,6,1,1,1,1,1,1,0,4.7,1794.53,4,0,Services à domicile
+89,Créteil,1,10,en,1,1,monthly_standard,0,4,1,1,0,2,1,0,0,0,0,4.6,406.45,0,0,Santé & Bien-être
+85,Paris 11e,1,55,fr,0,1,annual_renewal,1,34,17,13,3,3,18,2,2,2,7,4.8,4182.84,11,4,Loisirs & Sorties
+68,Fontainebleau,0,28,it,0,2,annual_standard,0,4,1,0,0,0,3,0,0,0,0,3.6,297.31,0,0,Loisirs & Sorties
+62,Créteil,1,39,fr,1,1,monthly_renewal,1,8,1,1,3,0,5,1,2,0,3,4.1,825.53,2,0,Loisirs & Sorties
+91,Montreuil,1,13,fr,0,0,monthly_standard,0,5,1,1,0,1,0,0,0,1,2,3.4,850.26,1,0,Services à domicile
+65,Lyon,0,15,fr,0,2,annual_renewal,1,4,1,0,0,0,1,1,0,2,0,4.9,480.18,1,1,Cours & Formation
+91,Paris 11e,1,48,fr,0,0,annual_renewal,1,15,5,4,1,2,1,1,1,1,0,4.5,1275.06,3,3,Services à domicile
+71,Paris 18e,1,51,fr,0,2,annual_renewal,1,25,6,6,5,16,1,1,1,4,1,4.5,1556.24,5,1,Santé & Bien-être
+62,Creil,0,20,fr,1,2,monthly_renewal,1,5,0,0,1,1,1,0,3,0,1,3.6,390.24,1,1,Emploi Seniors
+80,Bordeaux,0,47,fr,1,0,monthly_renewal,1,11,5,3,0,2,1,1,1,4,1,4.5,946.61,3,1,Cours & Formation
+63,Nice,0,14,en,1,0,monthly_standard,0,3,0,0,1,0,2,0,0,0,1,4.9,540.42,0,0,Loisirs & Sorties
+92,Paris 11e,1,24,fr,0,0,monthly_renewal,1,11,5,3,1,2,3,1,1,1,1,4.8,827.4,2,0,Loisirs & Sorties
+63,Montreuil,1,53,fr,0,1,monthly_renewal,1,13,2,2,5,1,1,8,1,0,1,5.0,1563.22,2,2,Tourisme
+63,Fontainebleau,0,2,it,0,1,monthly_renewal,1,0,0,0,0,0,0,0,0,0,0,3.7,0.0,0,0,Tourisme
+66,Creil,0,59,en,1,0,monthly_renewal,1,9,2,2,1,6,0,1,1,0,3,4.3,1160.46,1,0,Santé & Bien-être
+72,Bordeaux,0,20,fr,0,0,monthly_renewal,1,8,2,2,1,3,0,5,0,0,3,3.3,1095.06,2,0,Tourisme
+62,Marseille,0,36,fr,0,0,annual_renewal,1,10,1,1,3,0,2,8,0,0,2,4.1,1844.78,2,2,Tourisme
+93,Paris 17e,1,56,fr,0,0,monthly_standard,0,30,12,8,2,4,16,3,1,1,6,4.9,4485.82,5,5,Loisirs & Sorties
+80,Montreuil,1,23,fr,1,1,annual_standard,0,10,4,3,0,1,0,0,0,0,0,4.0,381.35,3,0,Services à domicile
+86,Paris 18e,1,14,es,0,1,annual_renewal,1,5,1,2,0,3,0,0,0,0,3,3.5,865.66,0,0,Santé & Bien-être
+73,Bordeaux,0,24,fr,0,2,annual_renewal,1,1,0,0,0,0,0,0,0,0,0,3.7,419.75,1,1,Services à domicile
+82,Créteil,1,1,fr,0,0,monthly_standard,0,0,0,0,0,0,0,0,0,0,0,3.9,0.0,0,0,Santé & Bien-être
+93,Paris 18e,1,40,fr,0,0,annual_renewal,1,14,5,5,1,2,6,1,1,1,3,4.1,640.99,4,1,Loisirs & Sorties
+93,Créteil,1,38,en,1,2,annual_renewal,1,17,6,6,1,11,1,1,0,1,0,4.0,1057.07,5,1,Santé & Bien-être
+67,Lyon,0,40,fr,0,0,annual_standard,0,11,2,2,1,0,0,7,1,1,1,3.8,750.17,1,1,Tourisme
+66,Fontainebleau,0,11,fr,0,0,annual_standard,0,1,0,0,0,0,0,0,0,1,0,4.0,178.29,1,0,Cours & Formation
+77,Nice,0,3,fr,0,0,monthly_standard,0,0,0,0,0,0,0,0,0,0,0,4.3,0.0,0,0,Tourisme
+80,Fontainebleau,0,11,fr,1,2,annual_standard,0,1,0,0,0,0,0,0,0,1,1,3.5,51.42,0,0,Cours & Formation
+91,Créteil,1,34,fr,1,0,annual_renewal,1,18,6,6,1,3,1,1,1,9,1,3.5,1638.38,4,4,Cours & Formation
+75,Lyon,0,2,fr,0,0,monthly_standard,0,0,0,0,0,0,0,0,0,0,0,4.2,0.0,1,1,Services à domicile
+76,Fontainebleau,0,12,fr,0,1,monthly_standard,0,0,0,0,0,0,0,0,0,0,3,3.6,409.14,0,0,Santé & Bien-être
+94,Paris 11e,1,31,fr,0,1,monthly_renewal,1,9,4,3,0,1,0,2,0,5,3,4.3,730.07,3,2,Cours & Formation
+89,Créteil,1,17,de,0,0,monthly_renewal,1,7,3,2,0,1,0,2,0,0,0,4.2,659.02,1,0,Services à domicile
+64,Créteil,1,9,fr,0,0,monthly_standard,0,2,0,0,0,0,1,0,0,0,3,4.1,510.41,1,0,Loisirs & Sorties
+64,Paris 18e,1,55,fr,0,0,monthly_renewal,1,17,2,2,6,1,10,2,1,1,0,4.0,1206.31,2,2,Loisirs & Sorties
+78,Montreuil,1,46,fr,1,0,annual_renewal,1,18,8,6,2,1,1,1,1,12,3,3.9,1457.45,3,1,Cours & Formation
+66,Paris 18e,1,24,fr,0,0,annual_renewal,1,6,1,1,0,0,4,0,0,2,1,4.7,490.24,2,1,Loisirs & Sorties
+62,Créteil,1,59,fr,0,0,annual_renewal,1,14,2,2,4,1,2,1,1,1,3,4.5,1214.03,2,2,Shopping
+63,Créteil,1,49,fr,0,2,annual_renewal,1,14,2,2,5,0,9,1,1,1,6,4.5,1750.42,3,2,Loisirs & Sorties
+93,Paris 18e,1,12,fr,1,0,monthly_standard,0,6,2,2,0,4,1,0,0,0,1,4.1,527.92,2,0,Santé & Bien-être
+80,Paris 11e,1,8,fr,0,1,annual_standard,0,2,0,0,0,0,0,1,0,0,0,3.7,170.3,0,0,Services à domicile
+67,Créteil,1,44,fr,0,0,monthly_renewal,1,18,4,4,4,1,1,1,1,12,3,3.6,1298.97,5,1,Cours & Formation
+70,Lyon,0,3,fr,0,0,annual_standard,0,2,0,0,0,0,0,1,1,0,0,3.4,199.75,1,1,Tourisme
+85,Paris 17e,1,17,fr,1,0,monthly_standard,0,2,0,0,0,0,0,0,1,0,1,3.5,383.22,0,0,Services à domicile
+92,Paris 17e,1,15,fr,0,0,annual_renewal,1,4,1,1,0,2,0,0,0,1,0,4.3,363.01,0,0,Santé & Bien-être
+77,Rouen,0,22,es,0,0,annual_standard,0,7,3,2,0,0,0,0,2,5,1,4.6,587.37,1,0,Cours & Formation
+65,Créteil,1,13,fr,0,1,monthly_renewal,1,4,0,1,0,0,2,0,0,0,0,4.9,420.08,0,0,Shopping
+60,Paris 18e,1,47,fr,1,1,monthly_standard,0,8,0,1,2,0,1,1,0,6,0,3.1,1255.91,2,0,Cours & Formation
+77,Montreuil,1,42,fr,0,2,monthly_renewal,1,11,4,3,1,1,7,1,0,1,2,4.3,638.02,3,1,Loisirs & Sorties
+85,Paris 18e,1,32,it,0,0,annual_standard,0,14,6,5,1,2,1,1,1,6,0,3.4,1278.68,2,1,Cours & Formation
+95,Paris 17e,1,35,fr,0,0,annual_renewal,1,15,6,5,1,9,1,0,1,1,3,3.0,1350.3,2,0,Santé & Bien-être
+75,Paris 18e,1,40,de,0,0,monthly_renewal,1,24,10,7,2,1,1,3,1,1,5,3.0,2176.72,5,0,Services à domicile
+70,Nice,0,44,fr,0,1,monthly_renewal,1,10,2,2,2,1,6,0,1,1,1,4.4,993.21,1,0,Loisirs & Sorties
+77,Paris 17e,1,53,fr,0,0,annual_renewal,1,31,15,10,2,20,2,2,2,2,3,3.3,4107.37,10,4,Santé & Bien-être
+67,Paris 18e,1,53,fr,0,0,annual_renewal,1,19,4,5,3,12,1,1,1,2,4,3.7,2075.06,4,4,Santé & Bien-être
+66,Fontainebleau,0,15,fr,1,0,monthly_standard,0,7,1,1,1,0,5,0,2,0,0,4.4,550.42,1,1,Loisirs & Sorties
+61,Paris 18e,1,47,fr,0,0,annual_renewal,1,16,2,2,4,1,10,2,1,0,1,4.9,1635.13,4,0,Loisirs & Sorties
+76,Paris 13e,1,17,it,0,0,monthly_standard,0,14,5,5,1,8,1,1,1,1,2,3.8,966.13,4,2,Santé & Bien-être
+66,Nice,0,29,fr,0,1,annual_renewal,1,4,0,1,0,0,0,4,0,0,1,3.1,434.65,1,0,Tourisme
+63,Creil,0,54,en,1,1,annual_renewal,1,13,1,1,4,1,2,1,1,7,2,3.7,989.49,2,1,Cours & Formation
+92,Paris 13e,1,47,fr,0,0,annual_standard,0,21,9,8,2,13,1,1,1,1,1,4.7,1230.19,3,0,Santé & Bien-être
+89,Créteil,1,59,fr,0,2,monthly_standard,0,24,11,7,2,15,2,1,1,1,3,3.6,1625.74,4,1,Santé & Bien-être
+90,Paris 13e,1,44,fr,0,1,monthly_renewal,1,22,8,7,1,14,1,1,1,1,4,4.7,1326.73,3,2,Santé & Bien-être
+60,Nice,0,27,fr,0,1,monthly_renewal,1,7,0,0,2,0,1,1,0,1,0,3.1,906.13,2,1,Shopping
+95,Montreuil,1,53,en,1,1,annual_renewal,1,17,8,4,1,11,1,1,1,1,3,4.1,2114.28,3,1,Santé & Bien-être
+66,Paris 18e,1,31,fr,0,0,annual_standard,0,13,2,3,2,1,7,1,1,1,2,4.5,1252.46,3,3,Loisirs & Sorties
+75,Fontainebleau,0,26,en,0,0,annual_standard,0,3,1,1,0,0,0,0,1,2,3,4.9,942.46,0,0,Cours & Formation
+95,Créteil,1,34,fr,0,0,monthly_renewal,1,16,6,5,1,1,1,1,1,1,1,3.7,1248.27,4,3,Services à domicile
+74,Paris 17e,1,57,it,0,0,monthly_renewal,1,25,5,7,4,1,1,1,4,1,5,4.6,2993.17,8,3,Services à domicile
+67,Paris 17e,1,32,fr,1,0,monthly_renewal,1,5,1,1,1,2,0,0,0,0,1,4.1,401.67,0,0,Services à domicile
+69,Paris 13e,1,36,fr,0,1,annual_standard,0,12,3,2,1,1,6,1,1,1,3,4.5,1342.38,4,4,Loisirs & Sorties
+68,Rouen,0,23,de,0,1,monthly_standard,0,10,2,2,1,1,1,1,0,5,1,4.1,785.71,2,1,Cours & Formation
+77,Creil,0,51,fr,0,1,annual_renewal,1,17,6,5,1,1,1,1,1,1,3,4.5,1646.11,3,2,Services à domicile
+66,Rouen,0,42,fr,0,1,annual_renewal,1,10,2,2,2,1,1,0,6,1,4,3.5,1023.36,3,3,Emploi Seniors
+70,Créteil,1,53,fr,0,0,monthly_renewal,1,15,3,3,3,1,10,1,0,1,2,4.2,2390.71,2,0,Loisirs & Sorties
+68,Créteil,1,24,fr,0,0,monthly_renewal,1,9,2,2,1,0,0,6,1,0,1,3.3,1159.46,2,1,Tourisme
+67,Paris 18e,1,47,en,0,0,annual_standard,0,9,2,2,1,0,0,1,1,6,3,5.0,1297.0,2,1,Cours & Formation
+83,Paris 17e,1,33,fr,0,0,annual_renewal,1,15,6,6,1,9,1,1,1,0,0,4.3,1531.08,5,0,Santé & Bien-être
+70,Nice,0,9,fr,0,2,monthly_standard,0,3,0,0,0,0,0,0,0,2,0,3.4,351.03,1,0,Cours & Formation
+68,Fontainebleau,0,42,fr,0,0,monthly_renewal,1,14,3,3,2,1,8,1,1,1,2,5.0,1848.94,3,0,Loisirs & Sorties
+78,Creil,0,24,de,0,0,annual_standard,0,8,3,2,0,0,0,5,3,0,3,4.0,1190.62,1,0,Tourisme
+62,Montreuil,1,4,de,0,0,annual_standard,0,1,0,0,0,0,0,0,0,1,0,4.6,129.99,1,0,Cours & Formation
+79,Paris 13e,1,48,fr,0,0,annual_standard,0,18,6,6,1,1,1,1,1,1,6,3.4,2106.31,6,4,Services à domicile
+71,Montreuil,1,51,fr,1,2,monthly_renewal,1,19,5,4,4,1,1,12,1,1,1,3.2,1592.94,3,1,Tourisme
+94,Paris 13e,1,56,fr,0,0,monthly_renewal,1,21,10,6,2,13,1,1,1,1,3,3.9,2120.87,7,5,Santé & Bien-être
+63,Nice,0,33,en,0,0,monthly_renewal,1,3,0,0,1,0,2,0,0,1,0,4.5,484.53,1,0,Loisirs & Sorties
+76,Rouen,0,43,fr,0,1,annual_renewal,1,6,2,1,0,0,0,0,0,0,4,4.5,1284.14,2,0,Services à domicile
+89,Paris 11e,1,18,es,0,0,annual_standard,0,11,5,3,1,2,1,1,1,1,1,4.5,1377.7,2,2,Services à domicile
+71,Rouen,0,33,fr,1,1,monthly_standard,0,4,1,0,0,0,0,1,0,3,0,3.2,386.19,0,0,Cours & Formation
+85,Paris 13e,1,5,fr,1,2,annual_standard,0,1,0,0,0,0,0,0,0,0,0,4.3,94.03,1,0,Services à domicile
+67,Paris 13e,1,23,fr,0,1,monthly_renewal,1,9,2,2,1,0,1,0,1,5,0,3.8,1124.74,2,2,Cours & Formation
+62,Marseille,0,4,fr,0,1,monthly_renewal,1,1,0,0,0,0,1,0,0,0,0,4.8,126.58,0,0,Loisirs & Sorties
+67,Creil,0,28,en,0,0,annual_standard,0,8,1,2,1,0,5,0,0,3,3,3.9,1148.76,1,0,Loisirs & Sorties
+92,Paris 13e,1,6,fr,0,1,monthly_standard,0,2,0,0,0,1,0,0,0,1,0,4.7,254.17,0,0,Santé & Bien-être
+80,Paris 17e,1,56,fr,0,0,annual_renewal,1,24,12,7,2,3,1,1,1,1,1,4.2,2832.08,6,2,Services à domicile
+78,Nice,0,42,es,0,0,annual_renewal,1,19,7,7,1,12,1,1,1,1,4,3.8,1130.9,6,1,Santé & Bien-être
+78,Rouen,0,26,en,0,1,monthly_renewal,1,7,3,2,0,0,0,0,7,0,2,3.5,993.11,2,2,Emploi Seniors
+95,Paris 13e,1,53,es,0,0,monthly_renewal,1,17,6,5,1,2,1,1,9,1,5,4.6,2193.16,2,0,Emploi Seniors
+85,Créteil,1,18,fr,0,1,annual_renewal,1,6,2,1,0,1,0,0,1,0,1,4.1,657.52,1,0,Services à domicile
+62,Fontainebleau,0,30,fr,0,1,monthly_standard,0,6,1,1,2,0,2,1,0,3,0,4.0,1112.56,2,1,Cours & Formation
+88,Paris 11e,1,56,es,0,1,monthly_renewal,1,35,14,12,3,22,2,2,2,2,3,4.4,3948.52,8,7,Santé & Bien-être
+60,Nice,0,34,fr,1,0,annual_standard,0,7,1,1,2,0,5,1,0,0,0,4.5,812.38,1,1,Loisirs & Sorties
+63,Montreuil,1,45,fr,0,0,annual_standard,0,13,2,2,5,7,2,0,1,1,1,3.9,1061.0,3,1,Santé & Bien-être
+67,Creil,0,3,fr,0,1,annual_standard,0,0,0,0,0,0,0,0,0,0,0,4.5,0.0,1,1,Loisirs & Sorties
+66,Paris 11e,1,26,fr,0,0,annual_renewal,1,7,1,1,1,0,0,0,2,5,3,4.3,654.8,1,0,Cours & Formation
+63,Creil,0,1,fr,0,0,annual_renewal,1,0,0,0,0,0,0,0,0,0,0,4.1,0.0,0,0,Services à domicile
+62,Bordeaux,0,44,fr,0,0,monthly_renewal,1,23,3,3,7,13,3,2,1,1,2,3.3,2250.24,4,2,Santé & Bien-être
+66,Rouen,0,15,es,0,1,monthly_standard,0,5,1,1,0,0,5,0,0,0,1,3.4,733.35,0,0,Loisirs & Sorties
+77,Créteil,1,21,fr,0,1,annual_standard,0,8,3,2,0,0,8,0,0,0,4,3.4,1484.03,1,0,Loisirs & Sorties
+70,Créteil,1,49,fr,0,0,annual_standard,0,8,1,1,1,0,0,0,0,5,2,4.5,953.3,1,0,Cours & Formation
+70,Montreuil,1,22,fr,0,0,monthly_renewal,1,7,1,1,1,0,5,0,2,0,0,3.8,722.55,1,1,Loisirs & Sorties
+85,Paris 13e,1,55,fr,0,1,monthly_standard,0,24,11,9,2,3,13,1,2,1,2,4.2,1634.2,5,3,Loisirs & Sorties
+66,Lyon,0,40,en,1,0,annual_renewal,1,20,4,5,3,1,13,1,2,1,3,4.6,2966.46,4,3,Loisirs & Sorties
+66,Creil,0,9,fr,0,0,annual_standard,0,0,0,0,0,0,0,0,0,0,0,4.4,143.2,0,0,Tourisme
+70,Rouen,0,19,fr,1,0,monthly_renewal,1,8,1,1,1,3,5,0,0,0,4,4.1,937.58,1,0,Loisirs & Sorties
+64,Paris 18e,1,4,fr,0,1,monthly_renewal,1,0,0,0,0,0,0,0,0,0,0,3.7,0.0,1,1,Loisirs & Sorties
+73,Fontainebleau,0,27,fr,1,0,annual_renewal,1,5,1,1,0,0,2,0,0,0,4,4.8,890.66,0,0,Services à domicile
+88,Créteil,1,41,fr,0,0,annual_renewal,1,29,13,10,2,4,1,1,1,3,3,3.7,1913.77,9,4,Services à domicile
+68,Creil,0,2,fr,0,0,monthly_standard,0,1,0,0,0,0,0,0,0,0,0,4.9,76.41,0,0,Shopping
+77,Fontainebleau,0,29,fr,0,1,monthly_renewal,1,10,4,3,1,0,1,1,1,1,5,4.3,1518.7,2,1,Shopping
+73,Fontainebleau,0,21,fr,1,0,monthly_standard,0,10,2,2,2,1,1,1,0,5,1,3.6,888.67,2,0,Cours & Formation
+80,Marseille,0,36,fr,0,0,monthly_standard,0,5,2,1,0,1,0,0,0,0,2,3.6,660.07,1,1,Services à domicile
+69,Montreuil,1,39,fr,0,0,annual_renewal,1,15,3,3,2,1,1,1,1,0,0,4.6,1106.94,4,0,Services à domicile
+70,Paris 17e,1,23,fr,1,1,annual_standard,0,15,4,3,2,1,10,1,1,0,3,4.3,1865.65,4,3,Loisirs & Sorties
+64,Paris 13e,1,48,fr,0,0,annual_renewal,1,24,3,4,9,1,4,2,2,13,1,3.5,2660.17,4,3,Cours & Formation
+67,Créteil,1,5,it,0,0,annual_standard,0,2,0,0,0,0,0,1,0,0,0,3.9,269.58,0,0,Tourisme
+61,Rouen,0,18,fr,1,1,monthly_standard,0,4,0,0,1,0,2,0,0,0,1,3.7,528.48,0,0,Shopping
+62,Lyon,0,2,fr,0,0,annual_standard,0,0,0,0,0,0,0,0,0,0,0,3.6,0.0,1,0,Santé & Bien-être
+75,Paris 13e,1,46,fr,0,0,annual_renewal,1,23,11,8,2,1,1,1,1,1,2,3.4,1140.26,5,5,Services à domicile
+75,Montreuil,1,27,en,0,1,annual_renewal,1,17,8,5,1,1,1,11,1,1,0,3.6,656.54,2,1,Tourisme
+69,Paris 13e,1,55,fr,1,1,annual_renewal,1,33,7,8,5,2,2,2,2,2,4,4.5,2514.77,6,5,Services à domicile
+61,Marseille,0,6,fr,0,2,annual_standard,0,2,0,0,0,0,1,0,0,0,0,4.3,107.96,1,0,Loisirs & Sorties
+91,Paris 18e,1,53,fr,0,1,annual_standard,0,34,17,9,3,5,18,2,0,2,10,3.8,3692.67,6,3,Loisirs & Sorties
+64,Lyon,0,30,it,0,0,annual_renewal,1,3,0,0,1,2,1,0,0,0,0,4.5,222.66,0,0,Santé & Bien-être
+71,Nice,0,30,fr,0,0,annual_standard,0,4,1,1,0,0,0,0,0,1,2,3.4,816.05,1,1,Services à domicile
+71,Bordeaux,0,10,en,1,0,monthly_standard,0,1,0,0,0,0,0,1,0,0,1,3.8,209.36,0,0,Tourisme
+78,Paris 17e,1,46,en,0,0,monthly_renewal,1,20,9,6,1,1,13,1,1,2,7,4.8,2542.0,6,0,Loisirs & Sorties
+60,Bordeaux,0,37,fr,0,1,annual_standard,0,11,1,1,3,1,5,1,1,1,1,4.2,1111.06,3,2,Loisirs & Sorties
+74,Marseille,0,30,fr,0,1,monthly_standard,0,4,1,1,0,0,0,0,3,1,0,3.7,241.72,1,0,Emploi Seniors
+89,Montreuil,1,9,fr,0,1,monthly_standard,0,4,1,1,0,1,2,0,0,0,3,4.0,217.05,0,0,Loisirs & Sorties
+71,Bordeaux,0,13,en,0,0,monthly_renewal,1,0,0,0,0,0,0,0,0,0,0,3.7,113.0,1,0,Cours & Formation
+77,Paris 17e,1,4,fr,0,0,annual_standard,0,2,0,0,0,0,0,0,0,0,0,3.7,197.0,1,1,Services à domicile
+68,Fontainebleau,0,11,fr,0,1,annual_standard,0,3,0,0,0,0,0,2,0,0,0,4.8,202.86,0,0,Tourisme
+69,Bordeaux,0,42,fr,0,0,annual_renewal,1,12,3,2,1,6,1,1,1,1,3,4.0,844.72,3,3,Santé & Bien-être
+63,Créteil,1,1,fr,0,0,monthly_standard,0,0,0,0,0,0,0,0,0,0,0,4.4,0.0,0,0,Services à domicile
+81,Paris 18e,1,51,fr,0,0,monthly_renewal,1,27,10,8,2,4,1,1,2,1,4,3.7,1310.38,4,0,Shopping
+72,Bordeaux,0,40,fr,1,1,annual_standard,0,15,4,3,3,1,10,1,1,1,4,3.3,2459.25,3,0,Loisirs & Sorties
+81,Paris 18e,1,28,fr,0,1,annual_renewal,1,11,4,3,1,2,0,0,1,5,1,4.8,1090.23,2,0,Cours & Formation
+76,Paris 18e,1,41,en,0,0,monthly_standard,0,18,7,7,1,12,1,1,1,1,3,3.2,1802.65,3,1,Santé & Bien-être
+68,Creil,0,19,fr,1,0,monthly_standard,0,5,1,1,0,0,3,0,0,0,3,4.1,947.85,0,0,Loisirs & Sorties
+71,Créteil,1,46,fr,0,0,annual_renewal,1,27,7,6,5,2,0,2,2,2,2,4.1,2313.83,5,0,Services à domicile
+81,Paris 11e,1,58,fr,0,2,annual_renewal,1,27,12,10,2,4,1,1,2,1,2,3.1,2077.35,5,4,Services à domicile
+68,Creil,0,18,en,0,2,annual_standard,0,7,1,1,1,5,0,0,0,0,2,4.9,911.84,1,1,Santé & Bien-être
+64,Nice,0,37,fr,0,0,annual_standard,0,11,1,1,3,0,6,1,1,1,2,4.4,1555.91,3,1,Loisirs & Sorties
+77,Paris 18e,1,11,fr,0,0,annual_standard,0,5,2,1,0,3,0,2,0,0,0,3.2,216.58,1,1,Santé & Bien-être
+65,Lyon,0,31,fr,0,0,monthly_standard,0,13,3,3,2,0,2,1,1,1,1,3.1,1726.81,3,2,Shopping
+85,Paris 17e,1,30,fr,0,0,monthly_renewal,1,19,8,6,1,12,1,1,0,1,2,4.8,1276.21,4,0,Santé & Bien-être
+77,Paris 17e,1,8,fr,0,0,monthly_standard,0,1,0,0,0,0,0,0,0,1,0,4.9,143.25,0,0,Cours & Formation
+63,Créteil,1,34,fr,0,0,annual_renewal,1,4,0,0,1,0,3,0,0,0,1,5.0,431.82,0,0,Loisirs & Sorties
+60,Fontainebleau,0,33,en,1,2,monthly_renewal,1,6,0,1,2,0,1,4,1,0,0,4.0,813.2,2,2,Tourisme
+76,Nice,0,36,en,1,0,monthly_renewal,1,5,2,1,0,0,0,0,3,2,0,4.7,405.48,1,1,Emploi Seniors
+68,Bordeaux,0,51,fr,0,0,annual_standard,0,11,2,2,1,1,7,1,0,1,0,4.0,976.71,1,1,Loisirs & Sorties
+70,Marseille,0,2,es,0,0,monthly_standard,0,1,0,0,0,1,0,0,0,0,1,4.7,154.75,1,0,Santé & Bien-être
+77,Paris 17e,1,19,en,1,0,monthly_standard,0,9,4,2,0,5,1,1,1,0,1,3.2,600.07,1,1,Santé & Bien-être
+69,Paris 13e,1,9,fr,0,0,annual_standard,0,2,0,0,0,0,0,0,0,0,1,4.8,240.08,1,0,Services à domicile
+84,Paris 17e,1,9,fr,0,0,annual_renewal,1,6,3,1,0,1,0,0,0,0,3,4.3,858.42,1,0,Services à domicile
+62,Marseille,0,41,fr,0,1,monthly_renewal,1,16,2,2,5,1,2,2,1,1,2,3.7,1525.94,5,4,Shopping
+78,Créteil,1,15,fr,1,0,monthly_standard,0,4,1,1,0,0,0,0,0,4,1,3.3,336.96,1,0,Cours & Formation
+64,Paris 13e,1,58,fr,1,0,monthly_renewal,1,11,1,1,3,1,2,1,1,1,3,4.7,2036.55,3,2,Services à domicile
+69,Paris 17e,1,22,fr,0,0,annual_standard,0,4,0,0,0,0,1,0,0,3,1,3.2,295.51,0,0,Cours & Formation
+77,Paris 13e,1,1,de,0,0,annual_standard,0,0,0,0,0,0,0,0,0,0,0,4.1,0.0,0,0,Santé & Bien-être
+61,Marseille,0,34,fr,0,0,annual_standard,0,12,1,1,4,1,2,0,7,1,2,4.6,1090.74,3,3,Emploi Seniors
+60,Creil,0,22,fr,0,2,monthly_standard,0,6,0,0,1,3,1,2,0,0,3,3.2,706.37,1,1,Santé & Bien-être
+65,Paris 17e,1,34,es,1,2,monthly_standard,0,8,1,1,1,0,7,1,0,0,1,4.5,545.42,1,0,Loisirs & Sorties
+81,Paris 13e,1,6,de,0,2,annual_standard,0,0,0,0,0,0,0,0,0,0,2,4.2,187.89,0,0,Santé & Bien-être
+67,Nice,0,13,fr,0,0,annual_standard,0,10,2,2,1,1,1,1,1,4,0,4.0,819.58,3,3,Cours & Formation
+67,Montreuil,1,38,fr,0,1,annual_standard,0,7,1,1,1,0,5,0,0,0,2,5.0,1106.42,2,1,Loisirs & Sorties
+70,Lyon,0,28,fr,0,0,annual_standard,0,20,5,4,3,1,1,1,1,13,4,3.8,2280.43,5,0,Cours & Formation
+63,Rouen,0,13,es,0,0,annual_standard,0,2,0,0,0,0,1,0,1,0,1,4.5,492.25,0,0,Emploi Seniors
+94,Paris 18e,1,56,fr,0,0,annual_standard,0,32,12,11,2,20,1,2,2,2,5,4.9,1922.38,8,7,Santé & Bien-être
+67,Marseille,0,23,fr,0,1,monthly_renewal,1,1,0,0,0,0,0,0,0,0,0,4.0,289.37,1,1,Services à domicile
+92,Paris 11e,1,6,it,1,0,monthly_standard,0,3,1,1,0,0,0,0,0,2,0,3.1,210.51,1,0,Cours & Formation
+67,Paris 17e,1,33,fr,0,1,monthly_standard,0,25,6,6,5,1,1,1,1,16,2,4.1,2082.67,8,6,Cours & Formation
+90,Paris 18e,1,45,fr,0,2,annual_renewal,1,16,6,4,1,10,1,1,1,0,3,4.7,1290.97,5,4,Santé & Bien-être
+61,Créteil,1,12,fr,0,0,annual_renewal,1,1,0,0,0,1,0,0,0,0,1,4.4,194.01,0,0,Santé & Bien-être
+70,Rouen,0,20,fr,0,0,monthly_standard,0,4,0,0,0,0,0,0,1,3,1,4.1,375.19,0,0,Cours & Formation
+68,Lyon,0,34,fr,0,0,monthly_standard,0,8,1,1,1,0,0,0,0,5,2,4.6,1336.99,2,1,Cours & Formation
+69,Paris 18e,1,25,fr,1,1,annual_renewal,1,2,0,0,0,0,0,0,1,1,1,4.1,518.67,1,1,Cours & Formation
+71,Creil,0,35,fr,0,0,monthly_renewal,1,8,1,2,1,0,5,0,3,0,0,4.5,434.5,1,0,Loisirs & Sorties
+81,Créteil,1,10,de,0,1,annual_standard,0,7,3,2,0,4,0,0,0,2,2,4.9,759.94,2,1,Santé & Bien-être
+82,Créteil,1,37,en,1,0,monthly_renewal,1,15,7,6,1,9,1,0,1,1,0,4.7,831.84,4,3,Santé & Bien-être
+87,Paris 13e,1,46,fr,0,1,annual_standard,0,16,7,5,1,2,1,1,1,8,0,4.3,598.78,3,0,Cours & Formation
+70,Fontainebleau,0,26,fr,0,1,annual_renewal,1,7,1,1,1,0,2,5,0,0,1,3.6,579.52,2,1,Tourisme
+64,Bordeaux,0,43,en,0,0,annual_renewal,1,9,1,1,3,0,1,1,0,5,0,4.7,1653.65,2,1,Cours & Formation
+61,Créteil,1,21,fr,0,0,annual_renewal,1,8,1,1,2,0,5,1,0,2,2,3.3,813.16,2,2,Loisirs & Sorties
+65,Créteil,1,26,fr,0,0,monthly_renewal,1,13,3,2,2,7,2,1,1,0,4,4.6,975.82,4,4,Santé & Bien-être
+69,Marseille,0,16,fr,1,1,annual_standard,0,6,1,1,1,0,0,0,2,0,2,3.6,997.79,1,0,Services à domicile
+82,Paris 18e,1,24,fr,1,2,annual_standard,0,17,8,5,1,2,1,0,1,1,2,4.5,1135.47,5,4,Services à domicile
+95,Paris 11e,1,6,fr,0,1,annual_standard,0,1,0,0,0,0,0,0,0,0,0,3.7,114.75,1,0,Services à domicile
+64,Créteil,1,12,fr,0,0,annual_renewal,1,4,0,0,1,0,1,1,0,2,1,4.3,317.23,1,0,Cours & Formation
+95,Montreuil,1,39,fr,0,0,monthly_renewal,1,19,10,7,2,12,1,0,1,1,0,4.7,1826.05,4,2,Santé & Bien-être
+67,Lyon,0,23,fr,0,0,monthly_renewal,1,14,2,3,2,1,9,1,1,0,1,3.8,1658.47,4,0,Loisirs & Sorties
+75,Paris 18e,1,17,de,1,0,annual_standard,0,8,3,2,0,0,0,0,0,8,3,3.9,644.36,2,1,Cours & Formation
+68,Fontainebleau,0,10,es,0,0,monthly_standard,0,3,0,0,0,0,1,2,0,0,1,3.5,418.18,0,0,Tourisme
+63,Montreuil,1,6,en,0,0,annual_standard,0,0,0,0,0,0,0,0,0,0,1,3.7,135.64,1,1,Tourisme
+77,Paris 13e,1,42,es,1,0,monthly_renewal,1,20,7,6,1,1,1,1,1,1,0,4.2,796.06,5,2,Services à domicile
+86,Créteil,1,26,it,0,1,monthly_renewal,1,13,4,4,1,2,0,1,1,1,2,3.6,1168.33,2,2,Services à domicile
+83,Paris 18e,1,55,de,1,0,monthly_renewal,1,31,12,10,2,19,4,1,1,1,5,3.2,1825.61,7,4,Santé & Bien-être
+75,Creil,0,16,fr,1,0,annual_renewal,1,6,2,2,0,0,4,2,0,0,0,5.0,640.54,2,2,Loisirs & Sorties
+62,Paris 17e,1,52,fr,0,1,monthly_renewal,1,11,1,1,4,1,5,1,1,1,2,3.1,1232.72,2,0,Loisirs & Sorties
+62,Paris 13e,1,2,fr,0,1,annual_standard,0,1,0,0,0,0,0,0,0,0,0,4.3,99.04,0,0,Services à domicile
+67,Nice,0,6,fr,0,0,annual_standard,0,1,0,0,0,0,0,0,0,1,1,3.2,97.41,1,1,Cours & Formation
+60,Marseille,0,45,fr,0,2,annual_renewal,1,10,1,1,4,0,2,2,6,0,2,4.3,1546.98,3,0,Emploi Seniors
+77,Paris 18e,1,31,es,1,0,annual_renewal,1,10,5,3,1,6,1,0,1,0,3,4.2,637.96,1,0,Santé & Bien-être
+63,Bordeaux,0,16,fr,0,2,annual_standard,0,3,0,0,1,0,0,0,0,1,0,4.5,615.76,0,0,Services à domicile
+73,Rouen,0,53,fr,0,0,monthly_renewal,1,9,2,1,1,0,5,1,1,1,0,3.7,843.68,2,0,Loisirs & Sorties
+75,Lyon,0,52,en,1,0,annual_renewal,1,22,10,6,2,3,1,14,1,1,1,3.2,2571.13,7,6,Tourisme
+78,Lyon,0,9,fr,0,0,annual_standard,0,1,0,0,0,0,0,0,0,0,0,4.3,101.3,0,0,Services à domicile
+68,Marseille,0,2,fr,0,0,annual_standard,0,3,0,0,0,0,0,0,0,0,0,3.6,276.75,0,0,Services à domicile
+83,Paris 13e,1,12,fr,0,2,monthly_standard,0,3,1,1,0,0,3,0,0,0,1,3.0,322.95,0,0,Loisirs & Sorties
+77,Bordeaux,0,13,it,0,1,monthly_standard,0,2,0,0,0,0,0,1,0,0,0,3.3,91.45,1,0,Tourisme
+68,Paris 17e,1,28,fr,0,1,annual_standard,0,14,3,3,2,1,1,0,1,9,1,3.9,1189.29,2,0,Cours & Formation
+76,Rouen,0,20,fr,0,0,annual_renewal,1,7,2,2,0,2,0,0,0,0,3,3.7,546.98,1,1,Services à domicile
+80,Lyon,0,25,it,0,0,annual_renewal,1,5,2,1,0,1,0,0,0,3,1,4.8,645.43,0,0,Cours & Formation
+85,Paris 17e,1,4,es,0,0,annual_standard,0,1,0,0,0,0,0,0,0,1,0,4.4,53.39,0,0,Cours & Formation
+63,Rouen,0,46,de,0,1,monthly_renewal,1,6,1,0,1,0,4,2,0,0,1,3.6,1224.76,2,1,Loisirs & Sorties
+73,Bordeaux,0,7,it,0,0,annual_standard,0,1,0,0,0,0,1,0,0,0,2,3.3,320.06,0,0,Loisirs & Sorties
+72,Paris 18e,1,5,fr,1,0,monthly_standard,0,0,0,0,0,0,0,0,0,0,0,4.4,84.55,0,0,Tourisme
+63,Paris 18e,1,57,fr,1,1,monthly_renewal,1,16,2,2,5,1,2,10,1,0,3,4.8,2768.69,4,1,Tourisme
+76,Bordeaux,0,6,en,1,1,monthly_standard,0,2,0,0,0,0,0,2,0,0,3,4.1,290.72,0,0,Tourisme
+65,Montreuil,1,36,en,1,0,monthly_renewal,1,8,2,1,1,0,5,1,0,0,3,4.6,839.01,1,1,Loisirs & Sorties
+67,Creil,0,4,fr,0,1,annual_standard,0,1,0,0,0,0,1,0,0,0,0,4.5,77.67,0,0,Loisirs & Sorties
+88,Montreuil,1,31,en,0,0,annual_renewal,1,20,7,5,2,3,1,1,1,1,4,4.9,1388.4,3,0,Services à domicile
+87,Créteil,1,7,de,0,0,monthly_standard,0,7,3,2,0,6,0,0,0,0,0,4.8,822.78,2,2,Santé & Bien-être
+71,Creil,0,33,de,0,0,monthly_standard,0,5,1,1,1,0,0,3,2,0,4,3.9,986.46,1,1,Tourisme
+74,Creil,0,16,fr,0,0,annual_renewal,1,3,0,0,0,0,0,2,0,0,2,4.1,451.7,0,0,Tourisme
+67,Bordeaux,0,35,fr,0,1,annual_renewal,1,9,2,2,1,0,1,1,0,1,0,4.5,1114.8,3,3,Services à domicile
+70,Fontainebleau,0,51,fr,0,0,annual_standard,0,14,4,3,3,1,9,0,1,1,4,4.1,2395.71,3,3,Loisirs & Sorties
+84,Créteil,1,54,fr,0,0,annual_standard,0,34,16,10,3,5,2,0,2,18,3,3.4,3632.21,5,5,Cours & Formation
+64,Rouen,0,36,es,0,0,annual_renewal,1,6,0,0,2,0,1,1,0,4,3,4.0,832.65,1,1,Cours & Formation
+76,Fontainebleau,0,58,en,0,0,annual_renewal,1,14,6,4,1,0,1,1,1,9,3,4.9,1490.95,2,2,Cours & Formation
+80,Paris 17e,1,34,de,0,2,annual_renewal,1,22,8,7,2,3,1,12,1,1,1,4.0,984.01,5,1,Tourisme
+79,Montreuil,1,9,fr,1,0,monthly_standard,0,4,1,1,0,3,1,0,0,0,0,3.0,342.52,1,0,Santé & Bien-être
+84,Paris 17e,1,19,en,0,1,monthly_standard,0,6,2,2,0,1,3,1,0,0,2,3.9,688.21,2,0,Loisirs & Sorties
+69,Nice,0,2,fr,1,0,annual_renewal,1,0,0,0,0,0,0,0,0,0,0,3.8,0.0,0,0,Loisirs & Sorties
+84,Paris 11e,1,36,fr,0,2,monthly_standard,0,12,5,4,1,2,1,0,1,1,0,4.0,1230.81,4,4,Services à domicile
+67,Montreuil,1,53,en,0,1,annual_standard,0,25,7,6,5,1,16,1,1,1,3,4.2,2262.6,7,5,Loisirs & Sorties
+62,Creil,0,33,fr,0,0,monthly_renewal,1,5,0,0,1,0,1,0,0,1,1,3.5,486.0,0,0,Services à domicile
+65,Marseille,0,22,fr,0,0,monthly_standard,0,6,1,1,1,0,4,1,0,0,0,4.7,317.73,2,2,Loisirs & Sorties
+91,Paris 11e,1,59,fr,0,0,annual_standard,0,19,7,5,2,11,1,1,1,1,0,4.8,762.66,4,1,Santé & Bien-être
+68,Paris 17e,1,46,fr,0,0,annual_standard,0,18,4,3,4,1,1,1,1,12,7,3.7,3302.01,3,3,Cours & Formation
+73,Paris 11e,1,26,en,1,1,monthly_standard,0,12,3,2,1,1,1,8,0,1,3,4.8,1100.58,4,4,Tourisme
+68,Lyon,0,14,fr,0,0,annual_renewal,1,1,0,0,0,0,0,0,0,1,0,4.7,394.97,1,0,Cours & Formation
+85,Paris 17e,1,47,fr,1,1,annual_renewal,1,23,9,8,2,4,1,1,1,1,6,3.4,3600.6,7,6,Services à domicile
+75,Paris 11e,1,41,de,0,0,monthly_renewal,1,18,9,6,1,12,1,1,1,1,3,4.1,2049.52,5,3,Santé & Bien-être
+78,Lyon,0,6,fr,1,0,monthly_renewal,1,1,0,0,0,0,0,0,0,1,1,4.6,186.7,0,0,Cours & Formation
+60,Paris 11e,1,9,en,0,1,monthly_standard,0,3,0,0,1,0,0,0,0,3,0,4.6,297.32,0,0,Cours & Formation
+67,Marseille,0,53,fr,0,2,monthly_renewal,1,14,3,2,2,1,1,1,1,9,2,4.0,1239.66,4,4,Cours & Formation
+62,Paris 17e,1,50,fr,0,0,annual_renewal,1,16,2,2,4,1,2,2,1,1,4,4.4,2718.17,2,0,Services à domicile
+76,Rouen,0,59,fr,1,0,monthly_renewal,1,9,4,3,1,1,6,1,0,1,1,3.5,1088.58,2,2,Loisirs & Sorties
+68,Nice,0,13,fr,0,0,annual_standard,0,7,1,2,1,0,0,0,2,5,0,5.0,389.73,2,1,Cours & Formation
+65,Lyon,0,41,fr,0,0,annual_standard,0,10,2,2,2,0,2,6,2,0,3,4.7,1216.86,1,1,Tourisme
+78,Nice,0,57,en,0,1,annual_renewal,1,18,8,6,1,1,12,1,1,1,5,3.1,1402.73,3,0,Loisirs & Sorties
+63,Rouen,0,29,fr,0,0,annual_renewal,1,7,0,0,2,1,5,1,0,0,2,4.7,922.18,1,0,Loisirs & Sorties
+89,Montreuil,1,32,fr,0,2,annual_standard,0,22,11,7,2,3,1,1,1,1,5,3.4,1074.84,6,0,Services à domicile
+67,Montreuil,1,30,fr,0,1,annual_standard,0,12,2,2,1,1,0,8,1,0,2,3.3,1567.03,2,1,Tourisme
+68,Paris 17e,1,30,fr,0,0,monthly_renewal,1,10,2,2,2,0,6,1,1,1,4,3.3,1141.17,3,2,Loisirs & Sorties
+81,Créteil,1,58,de,1,0,monthly_renewal,1,36,17,13,4,5,2,2,2,1,3,4.2,2853.6,10,3,Services à domicile
+80,Paris 11e,1,8,fr,1,1,annual_renewal,1,5,2,1,0,1,0,0,0,1,0,4.0,495.76,0,0,Services à domicile
+87,Paris 11e,1,33,fr,0,0,annual_standard,0,24,9,7,2,4,13,1,1,1,0,4.2,2385.31,5,4,Loisirs & Sorties
+63,Marseille,0,57,fr,1,0,monthly_renewal,1,14,1,1,4,1,2,1,1,0,6,3.2,2330.77,3,1,Shopping
+63,Paris 18e,1,36,fr,0,0,annual_renewal,1,11,1,1,4,1,7,1,0,0,0,3.9,1166.49,2,0,Loisirs & Sorties
+68,Marseille,0,31,fr,0,2,annual_standard,0,8,1,1,1,0,0,0,0,3,0,3.4,916.62,2,1,Shopping
+83,Montreuil,1,56,it,1,0,monthly_standard,0,34,12,11,3,5,18,2,2,2,3,3.1,3048.15,11,8,Loisirs & Sorties
+89,Créteil,1,24,fr,0,1,monthly_renewal,1,11,4,3,1,2,1,1,1,6,0,4.8,931.07,1,0,Cours & Formation
+82,Paris 17e,1,44,fr,0,0,monthly_renewal,1,11,5,3,0,2,1,0,0,1,2,4.5,937.21,1,1,Services à domicile
+94,Paris 18e,1,27,fr,0,1,annual_renewal,1,8,3,2,0,1,0,0,0,0,2,3.5,814.81,1,0,Services à domicile
+69,Nice,0,1,fr,0,0,annual_renewal,1,0,0,0,0,0,0,0,0,0,0,4.3,17.63,1,1,Cours & Formation
+68,Paris 11e,1,33,en,0,0,monthly_renewal,1,9,2,2,2,1,5,0,0,1,2,4.5,902.32,3,0,Loisirs & Sorties
+68,Marseille,0,54,fr,0,0,annual_renewal,1,23,5,5,5,1,15,1,1,3,7,3.7,1792.45,5,4,Loisirs & Sorties
+67,Paris 11e,1,9,fr,0,0,monthly_standard,0,2,0,0,0,0,0,0,1,0,0,4.7,228.23,1,1,Shopping
+92,Montreuil,1,14,fr,1,2,annual_renewal,1,9,3,3,0,1,0,0,0,0,0,4.3,827.06,3,2,Services à domicile
+66,Nice,0,47,fr,0,0,annual_renewal,1,9,2,2,1,0,0,1,1,6,2,3.2,1027.26,1,0,Cours & Formation
+63,Nice,0,47,fr,0,1,monthly_standard,0,10,1,1,3,0,2,1,0,1,2,3.3,1366.04,3,2,Services à domicile
+66,Paris 13e,1,33,fr,1,0,annual_standard,0,9,2,2,2,1,1,1,1,4,1,4.3,623.97,3,2,Cours & Formation
+89,Paris 11e,1,55,it,0,1,annual_standard,0,28,13,8,2,5,1,1,1,15,4,4.1,2405.6,9,8,Cours & Formation
+67,Marseille,0,20,en,0,1,monthly_standard,0,5,1,1,0,0,0,0,0,0,1,4.2,526.27,1,1,Shopping
+76,Paris 13e,1,51,fr,0,0,annual_standard,0,20,10,7,2,1,1,1,1,1,3,3.4,1863.27,4,2,Shopping
+61,Bordeaux,0,56,fr,0,0,monthly_renewal,1,12,1,1,3,1,6,1,1,1,0,4.4,1750.38,3,3,Loisirs & Sorties
+75,Créteil,1,55,de,0,1,annual_standard,0,29,12,8,2,2,0,2,2,2,1,3.5,3569.86,5,5,Services à domicile
+60,Paris 17e,1,16,fr,0,0,annual_renewal,1,5,0,0,1,0,1,4,0,0,3,3.3,421.91,0,0,Tourisme
+76,Montreuil,1,27,fr,0,2,monthly_standard,0,13,5,4,1,1,1,1,8,0,2,3.0,1697.27,3,0,Emploi Seniors
+68,Nice,0,27,fr,0,1,annual_renewal,1,11,2,2,2,1,1,1,1,6,2,3.2,1824.05,1,1,Cours & Formation
+78,Paris 17e,1,53,fr,0,0,monthly_renewal,1,18,8,7,1,1,1,1,1,12,3,3.4,1436.16,5,1,Cours & Formation
+63,Paris 13e,1,20,fr,0,1,monthly_renewal,1,6,0,1,2,0,1,4,0,1,1,4.5,860.11,1,0,Tourisme
+61,Lyon,0,8,fr,0,2,monthly_renewal,1,0,0,0,0,0,0,0,0,0,0,4.4,132.19,0,0,Cours & Formation
+69,Fontainebleau,0,2,fr,0,0,annual_standard,0,0,0,0,0,0,0,0,0,0,0,4.1,44.71,0,0,Services à domicile
+64,Creil,0,39,fr,0,0,annual_renewal,1,5,0,0,1,0,1,3,0,1,2,5.0,965.71,0,0,Tourisme
+76,Paris 18e,1,48,fr,0,0,annual_renewal,1,31,15,10,2,19,2,2,2,2,2,4.1,3710.47,10,3,Santé & Bien-être
+87,Paris 13e,1,47,fr,0,2,monthly_renewal,1,17,6,5,1,2,1,1,0,1,1,3.3,974.18,2,2,Services à domicile
+61,Fontainebleau,0,10,fr,0,0,monthly_standard,0,4,0,0,1,0,3,0,0,0,2,3.9,633.7,1,1,Loisirs & Sorties
+65,Paris 17e,1,15,fr,0,1,annual_standard,0,2,0,0,0,0,0,0,0,1,0,4.0,278.43,1,1,Cours & Formation
+79,Paris 13e,1,12,fr,0,0,monthly_renewal,1,2,0,0,0,0,1,0,0,0,1,3.3,237.68,1,0,Services à domicile
+76,Fontainebleau,0,2,fr,0,0,monthly_standard,0,0,0,0,0,0,0,0,0,0,0,4.5,0.0,1,0,Tourisme
+69,Bordeaux,0,24,fr,0,2,monthly_standard,0,4,1,1,0,4,0,0,0,0,0,4.4,586.94,1,1,Santé & Bien-être
+60,Créteil,1,59,fr,0,1,annual_renewal,1,18,2,2,6,1,3,1,1,10,7,4.4,2776.13,6,0,Cours & Formation
+61,Nice,0,11,fr,0,2,monthly_standard,0,2,0,0,0,1,1,0,0,0,1,4.7,273.4,0,0,Loisirs & Sorties
+74,Marseille,0,49,fr,1,1,monthly_standard,0,7,1,1,1,0,2,5,0,0,0,3.7,899.15,2,0,Tourisme
+62,Bordeaux,0,42,fr,0,1,annual_standard,0,8,1,1,2,0,5,1,0,2,5,3.9,798.71,1,0,Loisirs & Sorties
+61,Paris 18e,1,60,fr,0,0,annual_renewal,1,15,2,2,6,1,2,9,1,0,0,3.8,1750.93,3,3,Tourisme
+61,Montreuil,1,26,fr,0,0,annual_standard,0,6,0,0,1,3,1,1,0,0,0,3.5,878.88,1,1,Santé & Bien-être
+68,Nice,0,52,fr,1,1,annual_renewal,1,14,4,3,2,1,9,1,1,0,3,3.9,1838.64,4,1,Loisirs & Sorties
+75,Rouen,0,58,fr,0,0,annual_renewal,1,29,10,9,3,2,2,19,2,0,5,4.5,3787.73,9,8,Tourisme
+77,Créteil,1,47,fr,0,2,monthly_renewal,1,17,7,6,1,11,1,1,1,1,1,4.3,2213.77,5,1,Santé & Bien-être
+76,Fontainebleau,0,40,fr,0,1,monthly_renewal,1,17,8,5,1,1,1,1,1,1,8,4.9,2271.28,4,1,Shopping
+71,Marseille,0,17,fr,0,0,monthly_standard,0,0,0,0,0,0,0,0,0,0,0,4.3,110.77,0,0,Cours & Formation
+67,Fontainebleau,0,26,fr,0,0,monthly_renewal,1,9,2,2,1,6,1,1,0,0,0,3.9,931.82,3,2,Santé & Bien-être
+69,Marseille,0,57,fr,1,0,monthly_renewal,1,18,3,4,3,1,1,12,1,1,3,3.2,2532.86,5,4,Tourisme
+87,Créteil,1,23,en,0,1,annual_standard,0,21,9,8,2,3,1,1,1,1,0,3.4,862.16,4,2,Services à domicile
+65,Fontainebleau,0,44,es,1,0,annual_renewal,1,9,1,1,1,0,6,3,0,0,1,4.7,1450.13,3,1,Loisirs & Sorties
+67,Rouen,0,31,fr,0,0,annual_renewal,1,18,5,4,4,1,1,12,1,1,2,3.6,1233.35,3,1,Tourisme
+70,Marseille,0,44,fr,0,0,monthly_renewal,1,16,4,3,3,1,1,1,10,1,4,4.1,1881.12,2,0,Emploi Seniors
+65,Marseille,0,54,fr,0,1,annual_renewal,1,19,5,3,4,1,12,2,1,1,1,3.4,2013.71,4,2,Loisirs & Sorties
+73,Nice,0,43,fr,1,1,monthly_standard,0,22,5,5,4,1,14,1,1,1,3,4.4,1835.1,7,0,Loisirs & Sorties
+69,Paris 11e,1,31,es,0,0,annual_renewal,1,7,1,1,1,0,0,5,2,0,3,3.6,821.64,2,0,Tourisme
+93,Paris 13e,1,58,fr,1,1,monthly_standard,0,25,9,7,2,15,1,1,1,2,4,3.9,3341.97,4,2,Santé & Bien-être
+79,Paris 18e,1,24,fr,0,0,annual_standard,0,7,2,2,0,0,0,0,0,0,0,4.5,847.73,2,1,Services à domicile
+74,Marseille,0,42,fr,0,0,annual_renewal,1,9,1,2,2,1,1,6,1,0,2,3.4,1355.46,3,2,Tourisme
+80,Rouen,0,52,it,0,0,monthly_renewal,1,3,1,0,0,0,0,0,1,0,1,4.7,582.14,0,0,Services à domicile
+92,Montreuil,1,41,fr,0,0,monthly_renewal,1,17,8,6,1,11,1,0,1,1,1,4.5,2306.4,4,0,Santé & Bien-être
+62,Bordeaux,0,16,fr,0,0,annual_renewal,1,1,0,0,0,0,0,0,0,0,1,4.5,111.42,1,1,Services à domicile
+75,Paris 11e,1,37,de,0,1,annual_renewal,1,14,6,4,1,1,1,1,0,1,2,4.4,1407.87,3,0,Services à domicile
+78,Paris 11e,1,30,fr,0,0,annual_standard,0,20,10,8,2,13,1,2,1,1,2,3.4,1463.26,5,4,Santé & Bien-être
+83,Paris 13e,1,12,fr,0,0,annual_standard,0,6,2,2,0,4,0,0,0,0,1,3.1,736.04,2,0,Santé & Bien-être
+80,Bordeaux,0,9,fr,0,1,annual_standard,0,2,0,0,0,1,0,1,0,0,1,4.9,214.45,0,0,Tourisme
+75,Marseille,0,59,fr,1,1,annual_renewal,1,8,3,3,0,5,0,0,0,0,3,3.2,1470.87,2,0,Santé & Bien-être
+64,Bordeaux,0,9,fr,0,1,monthly_standard,0,2,0,0,0,0,1,0,1,0,0,4.8,282.18,0,0,Loisirs & Sorties
+70,Creil,0,26,fr,1,0,annual_renewal,1,9,2,2,1,1,1,5,0,1,4,4.4,1287.71,2,1,Tourisme
+70,Marseille,0,35,en,0,0,monthly_renewal,1,13,3,3,2,1,8,0,1,1,1,3.9,1390.51,3,1,Loisirs & Sorties
+61,Nice,0,59,en,1,1,annual_renewal,1,20,2,2,5,1,13,2,1,1,6,4.2,1918.84,5,3,Loisirs & Sorties
+71,Marseille,0,12,fr,0,1,annual_renewal,1,4,1,1,0,3,0,0,1,0,2,3.0,273.62,1,0,Santé & Bien-être
+73,Marseille,0,10,fr,1,2,monthly_standard,0,2,0,0,0,1,0,0,0,1,1,3.9,304.03,1,0,Cours & Formation
+67,Paris 17e,1,55,fr,1,0,monthly_renewal,1,23,5,5,3,3,1,15,1,1,4,4.8,2064.33,6,3,Tourisme
+67,Paris 18e,1,46,fr,0,0,annual_standard,0,8,2,2,1,5,0,0,0,0,1,4.0,1540.87,1,0,Santé & Bien-être
+60,Créteil,1,29,fr,0,0,annual_renewal,1,7,1,1,1,0,1,1,0,4,0,3.9,521.44,2,0,Cours & Formation
+67,Bordeaux,0,42,fr,0,0,annual_standard,0,9,2,2,1,0,6,0,1,1,1,4.6,817.67,2,0,Loisirs & Sorties
+66,Marseille,0,40,fr,0,0,annual_renewal,1,9,2,2,2,1,6,1,0,0,0,3.3,722.9,2,2,Loisirs & Sorties
+67,Bordeaux,0,30,fr,0,1,annual_renewal,1,10,2,2,2,6,1,0,1,1,0,4.5,1149.87,2,1,Santé & Bien-être
+65,Bordeaux,0,30,fr,0,1,annual_renewal,1,9,2,2,1,0,1,1,0,0,1,4.0,654.19,3,2,Shopping
+67,Bordeaux,0,39,fr,0,1,monthly_renewal,1,5,1,1,0,0,0,2,0,0,1,4.6,727.22,1,1,Shopping
+74,Paris 17e,1,11,fr,0,0,monthly_standard,0,3,0,0,0,2,0,0,0,1,1,4.2,235.65,1,0,Santé & Bien-être
+70,Paris 18e,1,46,fr,0,0,annual_renewal,1,9,2,2,1,1,0,0,1,1,5,3.6,1182.9,1,1,Services à domicile
+60,Marseille,0,48,fr,0,0,annual_standard,0,8,1,1,2,0,7,1,0,0,4,4.0,1139.91,2,1,Loisirs & Sorties
+65,Rouen,0,15,fr,0,1,annual_renewal,1,7,1,1,1,0,6,1,0,0,1,3.3,848.15,1,0,Loisirs & Sorties
+67,Paris 13e,1,50,de,0,0,annual_standard,0,17,4,4,3,1,1,1,1,1,6,3.3,1808.29,5,0,Services à domicile
+72,Paris 13e,1,31,de,0,0,monthly_standard,0,8,2,2,1,0,0,3,5,0,2,4.2,929.86,1,1,Emploi Seniors
+68,Rouen,0,15,fr,0,0,monthly_renewal,1,2,0,0,0,0,1,0,0,0,1,4.1,348.59,1,1,Loisirs & Sorties
+63,Paris 11e,1,5,es,1,0,annual_standard,0,0,0,0,0,0,0,0,0,0,0,3.7,64.17,0,0,Loisirs & Sorties
+63,Lyon,0,22,fr,1,2,monthly_renewal,1,10,1,1,3,1,2,1,0,6,0,3.5,1260.76,2,2,Cours & Formation
+86,Créteil,1,8,es,0,0,annual_renewal,1,1,0,0,0,0,0,0,0,0,0,4.3,55.16,1,1,Services à domicile
+64,Creil,0,51,fr,1,2,annual_renewal,1,12,1,1,4,7,2,0,1,0,2,4.9,1325.75,3,3,Santé & Bien-être
+69,Fontainebleau,0,34,fr,1,1,annual_standard,0,8,1,1,1,0,3,5,0,0,0,3.7,1123.27,2,2,Tourisme
+67,Rouen,0,44,de,0,0,monthly_standard,0,9,2,2,2,1,0,0,0,6,3,4.4,900.31,3,1,Cours & Formation
+71,Creil,0,30,fr,1,0,annual_renewal,1,11,2,2,1,1,6,1,1,0,4,3.0,1537.88,2,0,Loisirs & Sorties
+70,Bordeaux,0,33,it,1,0,monthly_standard,0,10,2,2,2,1,1,1,1,1,0,3.4,992.5,1,1,Shopping
+67,Paris 11e,1,10,fr,0,0,annual_standard,0,1,0,0,0,1,0,0,0,0,0,3.2,189.62,1,0,Santé & Bien-être
+63,Paris 17e,1,8,fr,0,2,annual_renewal,1,2,0,0,0,1,1,0,0,0,0,4.8,198.16,1,1,Loisirs & Sorties
+69,Rouen,0,23,fr,0,2,annual_renewal,1,10,2,2,1,1,1,4,1,1,1,3.9,780.17,3,0,Tourisme
+84,Paris 11e,1,33,fr,0,0,monthly_standard,0,14,5,5,1,2,1,1,1,1,0,4.6,1604.0,4,0,Services à domicile
+66,Bordeaux,0,13,en,0,0,annual_standard,0,4,1,1,0,1,3,0,0,0,1,3.2,565.44,1,1,Loisirs & Sorties
+90,Paris 18e,1,33,fr,0,0,annual_renewal,1,25,13,10,2,4,1,13,1,1,2,4.1,2230.71,4,2,Tourisme
+93,Montreuil,1,21,fr,0,1,annual_renewal,1,7,3,2,0,1,0,0,4,0,0,5.0,253.14,2,0,Emploi Seniors
+65,Bordeaux,0,32,en,0,0,monthly_standard,0,6,1,1,1,0,1,4,1,0,1,3.5,713.88,1,0,Tourisme
+75,Paris 18e,1,57,fr,0,1,monthly_renewal,1,40,14,15,4,2,2,2,4,2,2,3.1,2680.19,10,5,Services à domicile
+62,Paris 17e,1,6,en,0,0,monthly_standard,0,1,0,0,0,0,0,1,0,0,0,4.4,88.28,1,0,Tourisme
+62,Paris 11e,1,17,fr,0,2,annual_standard,0,3,0,0,0,0,0,0,0,2,0,4.1,268.09,1,0,Cours & Formation
+73,Paris 17e,1,50,en,0,0,annual_standard,0,26,6,7,6,17,0,2,2,1,2,4.2,1614.86,4,4,Santé & Bien-être
+67,Creil,0,34,fr,0,0,annual_renewal,1,2,0,0,0,0,0,2,0,0,1,3.1,329.27,0,0,Tourisme
+71,Fontainebleau,0,29,fr,0,0,monthly_standard,0,6,1,1,1,0,4,0,0,0,1,4.6,482.82,1,1,Loisirs & Sorties
+77,Nice,0,38,fr,0,0,annual_renewal,1,11,4,3,1,1,1,7,1,0,3,3.7,1654.25,2,2,Tourisme
+66,Paris 11e,1,36,fr,0,0,annual_renewal,1,9,2,1,1,1,4,1,0,1,0,4.8,1032.56,2,2,Loisirs & Sorties
+73,Marseille,0,24,fr,0,1,monthly_standard,0,12,2,2,2,1,8,0,1,1,3,4.2,1794.53,2,2,Loisirs & Sorties
+69,Paris 17e,1,22,fr,1,0,monthly_standard,0,5,1,1,0,0,2,3,0,0,1,4.7,868.51,0,0,Tourisme
+64,Montreuil,1,55,fr,0,0,monthly_renewal,1,14,2,2,5,1,2,7,1,1,0,5.0,1907.52,4,4,Tourisme
+72,Montreuil,1,43,fr,1,2,monthly_renewal,1,16,3,3,3,1,1,1,1,1,1,4.9,1514.04,4,0,Services à domicile
+75,Lyon,0,21,fr,1,1,monthly_renewal,1,13,5,3,1,1,8,1,1,0,5,3.8,1390.35,4,2,Loisirs & Sorties
+73,Marseille,0,8,fr,1,0,monthly_standard,0,1,0,0,0,1,0,0,0,0,0,3.8,68.98,0,0,Santé & Bien-être
+69,Marseille,0,25,en,0,0,annual_renewal,1,6,1,1,1,2,0,0,0,4,1,3.4,855.04,1,0,Cours & Formation
+70,Fontainebleau,0,39,fr,0,0,monthly_standard,0,13,3,3,2,1,8,1,1,1,6,3.4,1012.0,2,2,Loisirs & Sorties
+88,Créteil,1,18,es,0,0,annual_renewal,1,8,4,2,0,1,0,0,0,4,0,3.6,430.67,2,2,Cours & Formation
+71,Marseille,0,25,fr,1,0,annual_renewal,1,10,2,2,2,1,1,4,1,1,2,4.2,830.52,3,0,Tourisme
+67,Fontainebleau,0,42,es,0,2,annual_renewal,1,12,2,3,1,0,1,1,8,1,4,3.9,1692.99,4,3,Emploi Seniors
+63,Paris 18e,1,13,fr,0,0,monthly_standard,0,1,0,0,0,0,0,0,0,1,3,4.9,501.59,0,0,Cours & Formation
